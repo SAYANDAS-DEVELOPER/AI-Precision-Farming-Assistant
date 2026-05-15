@@ -1,0 +1,1651 @@
+﻿Crop,Stage,Days Range,Fertilizer,Dosage (kg/acre),Frequency,Irrigation Depth / Volume,Irrigation Frequency
+Rice (Paddy),Nursery,5-25,NPK 20:10:10,6.85,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,10-30,NPK 12:32:16,6.94,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,15-35,DAP + MOP,8.18,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,20-40,SOP (K₂SO₄),5.38,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,25-45,DAP + MOP,8.29,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,30-50,NPK 12:32:16,6.45,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,35-55,NPK 20:10:10,3.41,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,40-60,MgSO₄,4.1,Twice/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,45-65,NPK 19:19:19,9.57,Weekly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,50-70,ZnSO₄,1.2,Weekly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,55-75,Ca(NO₃)₂,7.83,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,60-80,NPK 12:32:16,1.81,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,65-85,NPK 12:32:16,9.03,Twice/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,70-90,NPK 12:32:16,9.87,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,75-95,ZnSO₄,11.05,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,80-100,MgSO₄,6.68,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,85-105,Urea (N),3.21,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,90-110,NPK 12:32:16,11.65,Weekly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,95-115,NPK 12:32:16,11.62,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,100-120,DAP + MOP,7.82,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,105-125,ZnSO₄,1.25,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,110-130,NPK 20:10:10,9.78,Weekly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,115-135,DAP + MOP,11.42,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,120-140,Urea (N),7.71,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,125-145,NPK 19:19:19,9.6,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,130-150,DAP + MOP,5.36,Twice/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,135-155,ZnSO₄,1.21,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,140-160,SSP,11.76,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,145-165,SOP (K₂SO₄),4.48,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,150-170,SOP (K₂SO₄),5.73,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,155-175,Urea (N),9.45,Weekly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,160-180,Ca(NO₃)₂,2.29,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,165-185,MgSO₄,3.17,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,170-190,Ca(NO₃)₂,7.47,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,175-195,NPK 20:10:10,2.24,Twice/month,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,180-200,NPK 19:19:19,1.18,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,185-205,Urea (N),6.1,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,190-210,NPK 12:32:16,2.53,Twice/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,195-215,DAP + MOP,4.84,Twice/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,200-220,Ca(NO₃)₂,9.1,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,205-225,SOP (K₂SO₄),3.75,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,210-230,NPK 12:32:16,2.77,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,215-235,Ca(NO₃)₂,2.57,Weekly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,220-240,SOP (K₂SO₄),7.1,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,225-245,NPK 12:32:16,6.11,Quarterly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,230-250,NPK 20:10:10,6.07,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,235-255,SSP,4.93,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,240-260,Ca(NO₃)₂,10.4,Once/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,245-265,SSP,10.53,Twice/week,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Nursery,250-270,NPK 20:10:10,10.99,Monthly,2-3 cm standing water,Daily / Alternate days
+Rice (Paddy),Tillering,5-25,NPK 19:19:19,2.21,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,10-30,SSP,4.75,Twice/month,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,15-35,SOP (K₂SO₄),11.8,Twice/month,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,20-40,NPK 12:32:16,4.7,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,25-45,DAP + MOP,1.79,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,30-50,Urea (N),2.29,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,35-55,SOP (K₂SO₄),4.42,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,40-60,MgSO₄,10.23,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,45-65,Urea (N),8.72,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,50-70,NPK 12:32:16,11.28,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,55-75,NPK 19:19:19,5.08,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,60-80,NPK 19:19:19,5.27,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,65-85,Urea (N),9.07,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,70-90,DAP + MOP,1.18,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,75-95,NPK 12:32:16,1.9,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,80-100,NPK 12:32:16,11.41,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,85-105,NPK 12:32:16,11.53,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,90-110,DAP + MOP,7.02,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,95-115,NPK 12:32:16,6.86,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,100-120,ZnSO₄,11.04,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,105-125,ZnSO₄,5.87,Twice/month,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,110-130,SSP,7.19,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,115-135,Ca(NO₃)₂,1.9,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,120-140,NPK 19:19:19,4.67,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,125-145,Urea (N),6.59,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,130-150,MgSO₄,10.74,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,135-155,Urea (N),8.34,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,140-160,SSP,9.27,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,145-165,NPK 20:10:10,7.05,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,150-170,DAP + MOP,9.35,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,155-175,SOP (K₂SO₄),10.15,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,160-180,NPK 20:10:10,11.33,Twice/month,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,165-185,ZnSO₄,3.08,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,170-190,Urea (N),11.65,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,175-195,SSP,2.96,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,180-200,SOP (K₂SO₄),9.24,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,185-205,Ca(NO₃)₂,11.39,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,190-210,Ca(NO₃)₂,6.69,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,195-215,SOP (K₂SO₄),10.73,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,200-220,NPK 12:32:16,2.86,Twice/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,205-225,SOP (K₂SO₄),8.83,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,210-230,NPK 12:32:16,3.35,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,215-235,NPK 20:10:10,8.43,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,220-240,Ca(NO₃)₂,3.88,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,225-245,NPK 20:10:10,3.06,Quarterly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,230-250,Ca(NO₃)₂,3.66,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,235-255,Ca(NO₃)₂,2.73,Once/week,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,240-260,NPK 20:10:10,8.15,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,245-265,Ca(NO₃)₂,5.15,Weekly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Tillering,250-270,SSP,4.27,Monthly,4-5 cm standing water,Every 3 days
+Rice (Paddy),Flowering,5-25,NPK 20:10:10,7.84,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,10-30,Urea (N),11.95,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,15-35,NPK 20:10:10,5.13,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,20-40,NPK 19:19:19,11.19,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,25-45,Urea (N),11.69,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,30-50,Urea (N),2.58,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,35-55,MgSO₄,10.31,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,40-60,SSP,4.58,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,45-65,MgSO₄,1.33,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,50-70,NPK 12:32:16,1.36,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,55-75,NPK 12:32:16,8.82,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,60-80,Urea (N),10.49,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,65-85,Ca(NO₃)₂,7.06,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,70-90,DAP + MOP,5.97,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,75-95,MgSO₄,5.53,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,80-100,Urea (N),6.26,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,85-105,DAP + MOP,11.91,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,90-110,SSP,9.52,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,95-115,ZnSO₄,7.67,Monthly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,100-120,Ca(NO₃)₂,1.59,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,105-125,MgSO₄,4.68,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,110-130,MgSO₄,4.02,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,115-135,SSP,7.14,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,120-140,NPK 20:10:10,9.59,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,125-145,ZnSO₄,7.47,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,130-150,ZnSO₄,4,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,135-155,NPK 20:10:10,2.87,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,140-160,ZnSO₄,11.47,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,145-165,NPK 19:19:19,11.91,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,150-170,ZnSO₄,5.95,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,155-175,Urea (N),2.41,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,160-180,MgSO₄,5.92,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,165-185,SSP,2.75,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,170-190,NPK 20:10:10,5.69,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,175-195,DAP + MOP,8.04,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,180-200,ZnSO₄,9.76,Monthly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,185-205,DAP + MOP,10.65,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,190-210,Ca(NO₃)₂,10.09,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,195-215,ZnSO₄,9.09,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,200-220,DAP + MOP,4.41,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,205-225,NPK 19:19:19,8.84,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,210-230,Ca(NO₃)₂,3.01,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,215-235,ZnSO₄,10.83,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,220-240,NPK 12:32:16,5.38,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,225-245,Ca(NO₃)₂,10.64,Twice/month,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,230-250,NPK 20:10:10,3.25,Twice/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,235-255,NPK 19:19:19,10.04,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,240-260,NPK 20:10:10,4.46,Once/week,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,245-265,SOP (K₂SO₄),8.73,Weekly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Flowering,250-270,DAP + MOP,6.68,Quarterly,5-7 cm standing water,Every 4 days
+Rice (Paddy),Grain Filling,5-25,NPK 12:32:16,5.78,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,10-30,NPK 19:19:19,11.75,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,15-35,SOP (K₂SO₄),7.38,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,20-40,MgSO₄,9.14,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,25-45,ZnSO₄,1.95,Quarterly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,30-50,SSP,1.42,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,35-55,NPK 20:10:10,11.44,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,40-60,NPK 19:19:19,7.54,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,45-65,Ca(NO₃)₂,9.58,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,50-70,SOP (K₂SO₄),1.28,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,55-75,SSP,6.48,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,60-80,SOP (K₂SO₄),5.3,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,65-85,Urea (N),11.22,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,70-90,NPK 12:32:16,10.98,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,75-95,Urea (N),1.93,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,80-100,ZnSO₄,8.32,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,85-105,NPK 19:19:19,8.8,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,90-110,NPK 19:19:19,3.05,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,95-115,SOP (K₂SO₄),11.43,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,100-120,SOP (K₂SO₄),1.06,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,105-125,NPK 20:10:10,1.99,Quarterly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,110-130,NPK 20:10:10,6.98,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,115-135,DAP + MOP,1.63,Twice/month,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,120-140,SOP (K₂SO₄),2.08,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,125-145,NPK 20:10:10,1.99,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,130-150,NPK 20:10:10,3.81,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,135-155,ZnSO₄,10.09,Quarterly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,140-160,DAP + MOP,10.71,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,145-165,NPK 20:10:10,9.89,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,150-170,Urea (N),8.25,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,155-175,Urea (N),8.05,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,160-180,SSP,5.68,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,165-185,Urea (N),9.8,Quarterly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,170-190,ZnSO₄,2.9,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,175-195,DAP + MOP,5.92,Quarterly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,180-200,DAP + MOP,8.65,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,185-205,SSP,5.86,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,190-210,NPK 19:19:19,10.99,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,195-215,NPK 20:10:10,10.71,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,200-220,ZnSO₄,3.75,Once/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,205-225,SSP,11.87,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,210-230,ZnSO₄,3.51,Twice/month,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,215-235,SSP,2.48,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,220-240,SSP,10.25,Monthly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,225-245,Urea (N),2.75,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,230-250,SSP,7.25,Weekly,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,235-255,SSP,1.97,Twice/month,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,240-260,Ca(NO₃)₂,1.23,Twice/month,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,245-265,SOP (K₂SO₄),7.59,Twice/week,5 cm standing water,Every 5 days
+Rice (Paddy),Grain Filling,250-270,ZnSO₄,3.44,Weekly,5 cm standing water,Every 5 days
+Banana,Vegetative,5-25,ZnSO₄,1.95,Weekly,30-40 mm,Weekly
+Banana,Vegetative,10-30,MgSO₄,1.28,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,15-35,SSP,11.37,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,20-40,NPK 20:10:10,7.6,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,25-45,SSP,10.55,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,30-50,DAP + MOP,3.24,Monthly,30-40 mm,Weekly
+Banana,Vegetative,35-55,DAP + MOP,8.13,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,40-60,NPK 12:32:16,8.84,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,45-65,NPK 20:10:10,5,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,50-70,MgSO₄,9.07,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,55-75,ZnSO₄,6.6,Once/week,30-40 mm,Weekly
+Banana,Vegetative,60-80,Ca(NO₃)₂,3.99,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,65-85,SSP,11.54,Once/week,30-40 mm,Weekly
+Banana,Vegetative,70-90,Urea (N),7.98,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,75-95,Urea (N),2.95,Monthly,30-40 mm,Weekly
+Banana,Vegetative,80-100,SSP,9.59,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,85-105,Urea (N),4.95,Once/week,30-40 mm,Weekly
+Banana,Vegetative,90-110,SOP (K₂SO₄),2.71,Weekly,30-40 mm,Weekly
+Banana,Vegetative,95-115,SSP,2.24,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,100-120,Ca(NO₃)₂,3.84,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,105-125,MgSO₄,4.77,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,110-130,Ca(NO₃)₂,11.65,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,115-135,SOP (K₂SO₄),1.15,Monthly,30-40 mm,Weekly
+Banana,Vegetative,120-140,SOP (K₂SO₄),5.16,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,125-145,Urea (N),10.11,Once/week,30-40 mm,Weekly
+Banana,Vegetative,130-150,NPK 19:19:19,9.55,Monthly,30-40 mm,Weekly
+Banana,Vegetative,135-155,NPK 12:32:16,1.52,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,140-160,NPK 20:10:10,10.9,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,145-165,NPK 12:32:16,5.51,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,150-170,NPK 19:19:19,6.8,Monthly,30-40 mm,Weekly
+Banana,Vegetative,155-175,SOP (K₂SO₄),1.34,Weekly,30-40 mm,Weekly
+Banana,Vegetative,160-180,SSP,5.69,Weekly,30-40 mm,Weekly
+Banana,Vegetative,165-185,MgSO₄,4.77,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,170-190,ZnSO₄,1.29,Weekly,30-40 mm,Weekly
+Banana,Vegetative,175-195,SSP,2.73,Once/week,30-40 mm,Weekly
+Banana,Vegetative,180-200,ZnSO₄,8.69,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,185-205,ZnSO₄,10.57,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,190-210,NPK 20:10:10,5.44,Once/week,30-40 mm,Weekly
+Banana,Vegetative,195-215,NPK 12:32:16,11.27,Once/week,30-40 mm,Weekly
+Banana,Vegetative,200-220,NPK 19:19:19,10.23,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,205-225,SOP (K₂SO₄),3.47,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,210-230,NPK 19:19:19,10.04,Weekly,30-40 mm,Weekly
+Banana,Vegetative,215-235,NPK 12:32:16,11,Monthly,30-40 mm,Weekly
+Banana,Vegetative,220-240,NPK 19:19:19,8.35,Once/week,30-40 mm,Weekly
+Banana,Vegetative,225-245,NPK 20:10:10,6.61,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,230-250,Urea (N),7.34,Twice/week,30-40 mm,Weekly
+Banana,Vegetative,235-255,NPK 19:19:19,6.22,Quarterly,30-40 mm,Weekly
+Banana,Vegetative,240-260,Ca(NO₃)₂,1.04,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,245-265,MgSO₄,11.31,Twice/month,30-40 mm,Weekly
+Banana,Vegetative,250-270,MgSO₄,2.96,Once/week,30-40 mm,Weekly
+Banana,Flowering,5-25,DAP + MOP,1.13,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,10-30,NPK 12:32:16,9.94,Weekly,5-7 cm standing water,Every 4 days
+Banana,Flowering,15-35,DAP + MOP,7.32,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,20-40,NPK 19:19:19,5.94,Weekly,5-7 cm standing water,Every 4 days
+Banana,Flowering,25-45,Urea (N),5.62,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,30-50,MgSO₄,10.75,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,35-55,Urea (N),11.07,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,40-60,NPK 12:32:16,10.34,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,45-65,MgSO₄,3.03,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,50-70,NPK 20:10:10,9.74,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,55-75,SSP,10.1,Weekly,5-7 cm standing water,Every 4 days
+Banana,Flowering,60-80,NPK 12:32:16,8.59,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,65-85,NPK 20:10:10,4.06,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,70-90,MgSO₄,3.69,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,75-95,SOP (K₂SO₄),1.26,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,80-100,SOP (K₂SO₄),3.91,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,85-105,NPK 19:19:19,11.87,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,90-110,Urea (N),7.93,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,95-115,SSP,10.86,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,100-120,DAP + MOP,6.44,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,105-125,NPK 19:19:19,5.68,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,110-130,NPK 12:32:16,4.68,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,115-135,NPK 12:32:16,8.24,Weekly,5-7 cm standing water,Every 4 days
+Banana,Flowering,120-140,NPK 20:10:10,3.35,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,125-145,MgSO₄,5.26,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,130-150,NPK 20:10:10,1.29,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,135-155,SSP,10.66,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,140-160,MgSO₄,3.75,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,145-165,Ca(NO₃)₂,5.67,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,150-170,NPK 12:32:16,5.05,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,155-175,NPK 19:19:19,9.36,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,160-180,Ca(NO₃)₂,8.27,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,165-185,NPK 20:10:10,6.03,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,170-190,Ca(NO₃)₂,6.98,Weekly,5-7 cm standing water,Every 4 days
+Banana,Flowering,175-195,MgSO₄,4.73,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,180-200,MgSO₄,3.61,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,185-205,Ca(NO₃)₂,8,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,190-210,Urea (N),4.54,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,195-215,NPK 20:10:10,1.94,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,200-220,SSP,6.3,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,205-225,NPK 20:10:10,2.65,Twice/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,210-230,DAP + MOP,5.54,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,215-235,Ca(NO₃)₂,8.06,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,220-240,DAP + MOP,8.8,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,225-245,MgSO₄,11.66,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,230-250,NPK 20:10:10,2.5,Once/week,5-7 cm standing water,Every 4 days
+Banana,Flowering,235-255,SSP,3.66,Monthly,5-7 cm standing water,Every 4 days
+Banana,Flowering,240-260,NPK 19:19:19,1.77,Twice/month,5-7 cm standing water,Every 4 days
+Banana,Flowering,245-265,MgSO₄,8.2,Quarterly,5-7 cm standing water,Every 4 days
+Banana,Flowering,250-270,Urea (N),2.22,Weekly,5-7 cm standing water,Every 4 days
+Banana,Fruiting,5-25,NPK 19:19:19,9.62,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,10-30,NPK 12:32:16,11.67,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,15-35,Ca(NO₃)₂,7.74,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,20-40,Urea (N),11.3,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,25-45,NPK 19:19:19,3.66,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,30-50,NPK 20:10:10,2.89,Once/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,35-55,Ca(NO₃)₂,5.41,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,40-60,Ca(NO₃)₂,3.52,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,45-65,NPK 12:32:16,5.53,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,50-70,NPK 12:32:16,1.12,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,55-75,NPK 19:19:19,3.06,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,60-80,Urea (N),2.67,Once/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,65-85,DAP + MOP,2.49,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,70-90,SOP (K₂SO₄),10.22,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,75-95,SSP,4.16,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,80-100,MgSO₄,8.25,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,85-105,Ca(NO₃)₂,3.18,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,90-110,SOP (K₂SO₄),11.46,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,95-115,SOP (K₂SO₄),7.03,Once/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,100-120,MgSO₄,6.77,Once/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,105-125,SSP,10.05,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,110-130,SOP (K₂SO₄),5.37,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,115-135,SSP,9.77,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,120-140,DAP + MOP,10.02,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,125-145,ZnSO₄,1.36,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,130-150,Ca(NO₃)₂,5.93,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,135-155,ZnSO₄,11.46,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,140-160,NPK 20:10:10,7.68,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,145-165,Ca(NO₃)₂,3.18,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,150-170,NPK 19:19:19,11.92,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,155-175,DAP + MOP,5.41,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,160-180,DAP + MOP,3.06,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,165-185,NPK 12:32:16,8.89,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,170-190,SSP,3.95,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,175-195,NPK 19:19:19,3.11,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,180-200,Ca(NO₃)₂,6.42,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,185-205,NPK 12:32:16,8.33,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,190-210,SSP,11.85,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,195-215,MgSO₄,5.01,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,200-220,NPK 20:10:10,2.35,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,205-225,Urea (N),6.94,Monthly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,210-230,ZnSO₄,8.93,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,215-235,SSP,3.27,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,220-240,NPK 12:32:16,1.03,Once/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,225-245,Urea (N),1.39,Weekly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,230-250,Urea (N),6.81,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,235-255,NPK 20:10:10,8.93,Twice/week,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,240-260,MgSO₄,10.14,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,245-265,ZnSO₄,8.25,Twice/month,50-70 mm,Weekly / 2 times per week
+Banana,Fruiting,250-270,SSP,1.45,Quarterly,50-70 mm,Weekly / 2 times per week
+Banana,Harvesting,5-25,MgSO₄,4.15,Twice/month,30 mm,As needed
+Banana,Harvesting,10-30,NPK 12:32:16,6.74,Weekly,30 mm,As needed
+Banana,Harvesting,15-35,NPK 12:32:16,11.49,Twice/month,30 mm,As needed
+Banana,Harvesting,20-40,DAP + MOP,8.44,Once/week,30 mm,As needed
+Banana,Harvesting,25-45,SSP,9.38,Quarterly,30 mm,As needed
+Banana,Harvesting,30-50,ZnSO₄,10.74,Once/week,30 mm,As needed
+Banana,Harvesting,35-55,Urea (N),3.96,Monthly,30 mm,As needed
+Banana,Harvesting,40-60,NPK 19:19:19,1.19,Quarterly,30 mm,As needed
+Banana,Harvesting,45-65,ZnSO₄,7.31,Weekly,30 mm,As needed
+Banana,Harvesting,50-70,ZnSO₄,2.99,Twice/month,30 mm,As needed
+Banana,Harvesting,55-75,Urea (N),5.43,Weekly,30 mm,As needed
+Banana,Harvesting,60-80,DAP + MOP,1.57,Weekly,30 mm,As needed
+Banana,Harvesting,65-85,ZnSO₄,8.64,Quarterly,30 mm,As needed
+Banana,Harvesting,70-90,Ca(NO₃)₂,11.18,Twice/month,30 mm,As needed
+Banana,Harvesting,75-95,NPK 20:10:10,8.23,Twice/week,30 mm,As needed
+Banana,Harvesting,80-100,Urea (N),6.9,Twice/month,30 mm,As needed
+Banana,Harvesting,85-105,NPK 20:10:10,5.35,Monthly,30 mm,As needed
+Banana,Harvesting,90-110,NPK 12:32:16,1.22,Twice/month,30 mm,As needed
+Banana,Harvesting,95-115,Urea (N),7.22,Quarterly,30 mm,As needed
+Banana,Harvesting,100-120,NPK 19:19:19,3.09,Monthly,30 mm,As needed
+Banana,Harvesting,105-125,NPK 20:10:10,3.88,Weekly,30 mm,As needed
+Banana,Harvesting,110-130,Urea (N),8.44,Weekly,30 mm,As needed
+Banana,Harvesting,115-135,NPK 20:10:10,10.05,Quarterly,30 mm,As needed
+Banana,Harvesting,120-140,MgSO₄,5.52,Once/week,30 mm,As needed
+Banana,Harvesting,125-145,MgSO₄,7.87,Once/week,30 mm,As needed
+Banana,Harvesting,130-150,DAP + MOP,7.76,Quarterly,30 mm,As needed
+Banana,Harvesting,135-155,Ca(NO₃)₂,10.23,Twice/month,30 mm,As needed
+Banana,Harvesting,140-160,Ca(NO₃)₂,7.42,Twice/week,30 mm,As needed
+Banana,Harvesting,145-165,NPK 19:19:19,9.69,Once/week,30 mm,As needed
+Banana,Harvesting,150-170,Urea (N),7.26,Once/week,30 mm,As needed
+Banana,Harvesting,155-175,SSP,7.57,Monthly,30 mm,As needed
+Banana,Harvesting,160-180,ZnSO₄,4.51,Twice/week,30 mm,As needed
+Banana,Harvesting,165-185,DAP + MOP,9.14,Quarterly,30 mm,As needed
+Banana,Harvesting,170-190,Ca(NO₃)₂,1.13,Weekly,30 mm,As needed
+Banana,Harvesting,175-195,DAP + MOP,5.04,Quarterly,30 mm,As needed
+Banana,Harvesting,180-200,NPK 19:19:19,10.63,Monthly,30 mm,As needed
+Banana,Harvesting,185-205,SSP,4.91,Twice/week,30 mm,As needed
+Banana,Harvesting,190-210,SOP (K₂SO₄),7.56,Quarterly,30 mm,As needed
+Banana,Harvesting,195-215,MgSO₄,7.21,Twice/week,30 mm,As needed
+Banana,Harvesting,200-220,SSP,5.82,Once/week,30 mm,As needed
+Banana,Harvesting,205-225,DAP + MOP,7.4,Twice/month,30 mm,As needed
+Banana,Harvesting,210-230,SSP,3.49,Once/week,30 mm,As needed
+Banana,Harvesting,215-235,Urea (N),11.84,Monthly,30 mm,As needed
+Banana,Harvesting,220-240,Ca(NO₃)₂,9.54,Monthly,30 mm,As needed
+Banana,Harvesting,225-245,Urea (N),3.73,Twice/week,30 mm,As needed
+Banana,Harvesting,230-250,NPK 20:10:10,4.35,Monthly,30 mm,As needed
+Banana,Harvesting,235-255,DAP + MOP,2.54,Weekly,30 mm,As needed
+Banana,Harvesting,240-260,DAP + MOP,5.15,Monthly,30 mm,As needed
+Banana,Harvesting,245-265,NPK 20:10:10,4.27,Twice/month,30 mm,As needed
+Banana,Harvesting,250-270,SOP (K₂SO₄),4.94,Twice/month,30 mm,As needed
+Coconut,Early Growth,5-25,NPK 20:10:10,4.79,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,10-30,Ca(NO₃)₂,2.76,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,15-35,MgSO₄,4.97,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,20-40,NPK 20:10:10,1.05,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,25-45,DAP + MOP,7.29,Monthly,20-30 mm,Weekly
+Coconut,Early Growth,30-50,NPK 19:19:19,1.58,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,35-55,NPK 12:32:16,2.59,Quarterly,20-30 mm,Weekly
+Coconut,Early Growth,40-60,Ca(NO₃)₂,11.56,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,45-65,NPK 19:19:19,8.29,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,50-70,MgSO₄,6.86,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,55-75,NPK 20:10:10,10.97,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,60-80,ZnSO₄,1.63,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,65-85,MgSO₄,9,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,70-90,NPK 19:19:19,7.48,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,75-95,SSP,6.66,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,80-100,Ca(NO₃)₂,8.5,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,85-105,NPK 12:32:16,8.06,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,90-110,ZnSO₄,5.36,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,95-115,Ca(NO₃)₂,2.07,Monthly,20-30 mm,Weekly
+Coconut,Early Growth,100-120,DAP + MOP,3.3,Monthly,20-30 mm,Weekly
+Coconut,Early Growth,105-125,SSP,6.76,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,110-130,SOP (K₂SO₄),5.95,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,115-135,MgSO₄,6.84,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,120-140,NPK 20:10:10,7.58,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,125-145,Urea (N),1.46,Quarterly,20-30 mm,Weekly
+Coconut,Early Growth,130-150,SOP (K₂SO₄),11.19,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,135-155,SSP,3.28,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,140-160,NPK 12:32:16,6.99,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,145-165,Urea (N),4.51,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,150-170,ZnSO₄,9.88,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,155-175,SOP (K₂SO₄),9.75,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,160-180,ZnSO₄,7.97,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,165-185,NPK 20:10:10,5.08,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,170-190,SOP (K₂SO₄),4.54,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,175-195,NPK 20:10:10,2.12,Monthly,20-30 mm,Weekly
+Coconut,Early Growth,180-200,NPK 19:19:19,6.25,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,185-205,Urea (N),7.57,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,190-210,Ca(NO₃)₂,1.63,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,195-215,Ca(NO₃)₂,1.51,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,200-220,ZnSO₄,10.19,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,205-225,DAP + MOP,6.95,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,210-230,NPK 12:32:16,8.97,Twice/week,20-30 mm,Weekly
+Coconut,Early Growth,215-235,NPK 12:32:16,7.35,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,220-240,NPK 12:32:16,8.1,Twice/month,20-30 mm,Weekly
+Coconut,Early Growth,225-245,NPK 19:19:19,2.92,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,230-250,NPK 12:32:16,4.42,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,235-255,NPK 19:19:19,8.94,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,240-260,NPK 20:10:10,10.97,Weekly,20-30 mm,Weekly
+Coconut,Early Growth,245-265,NPK 12:32:16,3.19,Once/week,20-30 mm,Weekly
+Coconut,Early Growth,250-270,Ca(NO₃)₂,6.56,Twice/week,20-30 mm,Weekly
+Coconut,Flower Initiation,5-25,NPK 20:10:10,7.03,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,10-30,NPK 19:19:19,9.66,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,15-35,NPK 12:32:16,10.95,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,20-40,SOP (K₂SO₄),5.21,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,25-45,Urea (N),5.43,Once/week,40-50 mm,Weekly
+Coconut,Flower Initiation,30-50,SSP,3.21,Once/week,40-50 mm,Weekly
+Coconut,Flower Initiation,35-55,NPK 19:19:19,3.16,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,40-60,SOP (K₂SO₄),10.35,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,45-65,SOP (K₂SO₄),2.68,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,50-70,SOP (K₂SO₄),4.75,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,55-75,DAP + MOP,6.69,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,60-80,Urea (N),8.99,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,65-85,Urea (N),8.24,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,70-90,NPK 12:32:16,3.27,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,75-95,NPK 19:19:19,2.14,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,80-100,NPK 19:19:19,8.1,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,85-105,ZnSO₄,4.46,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,90-110,MgSO₄,8.54,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,95-115,NPK 19:19:19,6.32,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,100-120,NPK 12:32:16,11.39,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,105-125,MgSO₄,3.08,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,110-130,MgSO₄,9.9,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,115-135,ZnSO₄,8.54,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,120-140,MgSO₄,2.8,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,125-145,NPK 19:19:19,8.99,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,130-150,MgSO₄,1.1,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,135-155,Urea (N),6.21,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,140-160,ZnSO₄,2.6,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,145-165,NPK 20:10:10,1.44,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,150-170,NPK 20:10:10,10.43,Quarterly,40-50 mm,Weekly
+Coconut,Flower Initiation,155-175,DAP + MOP,3.49,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,160-180,NPK 20:10:10,8.73,Quarterly,40-50 mm,Weekly
+Coconut,Flower Initiation,165-185,Ca(NO₃)₂,5.71,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,170-190,ZnSO₄,10.62,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,175-195,NPK 12:32:16,7.65,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,180-200,SSP,1.79,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,185-205,Ca(NO₃)₂,10.77,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,190-210,NPK 12:32:16,1.33,Once/week,40-50 mm,Weekly
+Coconut,Flower Initiation,195-215,ZnSO₄,3.61,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,200-220,NPK 12:32:16,5.58,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,205-225,SOP (K₂SO₄),8.2,Twice/week,40-50 mm,Weekly
+Coconut,Flower Initiation,210-230,DAP + MOP,7.37,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,215-235,Urea (N),10.86,Once/week,40-50 mm,Weekly
+Coconut,Flower Initiation,220-240,Urea (N),11.12,Monthly,40-50 mm,Weekly
+Coconut,Flower Initiation,225-245,ZnSO₄,6.87,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,230-250,DAP + MOP,6,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,235-255,DAP + MOP,6.27,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,240-260,NPK 12:32:16,5.37,Twice/month,40-50 mm,Weekly
+Coconut,Flower Initiation,245-265,DAP + MOP,6.24,Weekly,40-50 mm,Weekly
+Coconut,Flower Initiation,250-270,DAP + MOP,8.34,Once/week,40-50 mm,Weekly
+Coconut,Full Bearing,5-25,ZnSO₄,5.77,Quarterly,50-80 mm,Weekly
+Coconut,Full Bearing,10-30,ZnSO₄,2.63,Quarterly,50-80 mm,Weekly
+Coconut,Full Bearing,15-35,MgSO₄,11.19,Quarterly,50-80 mm,Weekly
+Coconut,Full Bearing,20-40,Urea (N),4.22,Once/week,50-80 mm,Weekly
+Coconut,Full Bearing,25-45,Ca(NO₃)₂,1.41,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,30-50,ZnSO₄,11.03,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,35-55,Ca(NO₃)₂,6.39,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,40-60,Ca(NO₃)₂,11.83,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,45-65,Urea (N),4.56,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,50-70,NPK 19:19:19,5.45,Once/week,50-80 mm,Weekly
+Coconut,Full Bearing,55-75,Urea (N),5.81,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,60-80,NPK 19:19:19,7.18,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,65-85,SOP (K₂SO₄),10.44,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,70-90,SSP,9.58,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,75-95,Urea (N),2.27,Quarterly,50-80 mm,Weekly
+Coconut,Full Bearing,80-100,SOP (K₂SO₄),1.52,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,85-105,SSP,2.54,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,90-110,Urea (N),11.75,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,95-115,SOP (K₂SO₄),2.09,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,100-120,Urea (N),7.78,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,105-125,NPK 19:19:19,10.67,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,110-130,NPK 20:10:10,8.92,Quarterly,50-80 mm,Weekly
+Coconut,Full Bearing,115-135,Ca(NO₃)₂,5.66,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,120-140,DAP + MOP,7.29,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,125-145,SSP,5.04,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,130-150,DAP + MOP,4.78,Once/week,50-80 mm,Weekly
+Coconut,Full Bearing,135-155,SSP,9.91,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,140-160,NPK 12:32:16,4.17,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,145-165,SSP,7.23,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,150-170,Urea (N),5.95,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,155-175,SSP,3.51,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,160-180,MgSO₄,5.87,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,165-185,DAP + MOP,4.9,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,170-190,NPK 20:10:10,6.2,Once/week,50-80 mm,Weekly
+Coconut,Full Bearing,175-195,NPK 20:10:10,4.77,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,180-200,SOP (K₂SO₄),7.25,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,185-205,NPK 12:32:16,5.31,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,190-210,MgSO₄,7.77,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,195-215,NPK 20:10:10,8.84,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,200-220,DAP + MOP,4.18,Once/week,50-80 mm,Weekly
+Coconut,Full Bearing,205-225,NPK 19:19:19,11,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,210-230,NPK 20:10:10,9.62,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,215-235,MgSO₄,2.11,Once/week,50-80 mm,Weekly
+Coconut,Full Bearing,220-240,Ca(NO₃)₂,2.88,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,225-245,SOP (K₂SO₄),5.58,Monthly,50-80 mm,Weekly
+Coconut,Full Bearing,230-250,MgSO₄,3.14,Twice/week,50-80 mm,Weekly
+Coconut,Full Bearing,235-255,DAP + MOP,3.65,Quarterly,50-80 mm,Weekly
+Coconut,Full Bearing,240-260,MgSO₄,3.88,Twice/month,50-80 mm,Weekly
+Coconut,Full Bearing,245-265,SOP (K₂SO₄),7.1,Weekly,50-80 mm,Weekly
+Coconut,Full Bearing,250-270,NPK 20:10:10,10.18,Monthly,50-80 mm,Weekly
+Black Pepper,Vegetative,5-25,NPK 12:32:16,5.57,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,10-30,Ca(NO₃)₂,1.08,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,15-35,NPK 12:32:16,3.07,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,20-40,DAP + MOP,5.47,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,25-45,NPK 20:10:10,3.58,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,30-50,Ca(NO₃)₂,5.93,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,35-55,Urea (N),10.41,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,40-60,Urea (N),1.67,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,45-65,Urea (N),10.55,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,50-70,MgSO₄,6.07,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,55-75,MgSO₄,1.61,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,60-80,NPK 12:32:16,3.86,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,65-85,DAP + MOP,8.3,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,70-90,NPK 20:10:10,4.24,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,75-95,DAP + MOP,5.94,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,80-100,NPK 19:19:19,11.05,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,85-105,Ca(NO₃)₂,5.15,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,90-110,DAP + MOP,8.09,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,95-115,MgSO₄,6.69,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,100-120,SOP (K₂SO₄),4.77,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,105-125,NPK 12:32:16,3.86,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,110-130,NPK 20:10:10,2,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,115-135,Urea (N),3.67,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,120-140,SSP,5.09,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,125-145,SOP (K₂SO₄),1.04,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,130-150,ZnSO₄,8.49,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,135-155,ZnSO₄,7.62,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,140-160,MgSO₄,9.3,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,145-165,DAP + MOP,5.41,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,150-170,SOP (K₂SO₄),1.57,Twice/month,30-40 mm,Weekly
+Black Pepper,Vegetative,155-175,NPK 12:32:16,7.41,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,160-180,DAP + MOP,1.5,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,165-185,Ca(NO₃)₂,8.51,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,170-190,MgSO₄,5.77,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,175-195,NPK 20:10:10,5.02,Twice/month,30-40 mm,Weekly
+Black Pepper,Vegetative,180-200,ZnSO₄,2.8,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,185-205,NPK 12:32:16,1.23,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,190-210,DAP + MOP,8.69,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,195-215,SSP,5.34,Twice/month,30-40 mm,Weekly
+Black Pepper,Vegetative,200-220,Ca(NO₃)₂,3.53,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,205-225,NPK 19:19:19,10.7,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,210-230,DAP + MOP,1.52,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,215-235,SSP,5.34,Quarterly,30-40 mm,Weekly
+Black Pepper,Vegetative,220-240,NPK 20:10:10,6.2,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,225-245,NPK 20:10:10,6.58,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,230-250,NPK 20:10:10,4.92,Twice/week,30-40 mm,Weekly
+Black Pepper,Vegetative,235-255,NPK 20:10:10,4.27,Once/week,30-40 mm,Weekly
+Black Pepper,Vegetative,240-260,Urea (N),10.54,Weekly,30-40 mm,Weekly
+Black Pepper,Vegetative,245-265,DAP + MOP,7.55,Monthly,30-40 mm,Weekly
+Black Pepper,Vegetative,250-270,SSP,11.32,Twice/week,30-40 mm,Weekly
+Black Pepper,Flowering,5-25,NPK 20:10:10,2.88,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,10-30,NPK 20:10:10,8.93,Quarterly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,15-35,SSP,6.9,Quarterly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,20-40,DAP + MOP,9.02,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,25-45,ZnSO₄,7.43,Once/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,30-50,DAP + MOP,10.59,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,35-55,NPK 12:32:16,4.44,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,40-60,ZnSO₄,8.79,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,45-65,DAP + MOP,7.44,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,50-70,MgSO₄,5.37,Weekly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,55-75,DAP + MOP,2.8,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,60-80,MgSO₄,11.7,Once/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,65-85,ZnSO₄,3.64,Weekly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,70-90,DAP + MOP,5.02,Weekly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,75-95,Ca(NO₃)₂,11.26,Quarterly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,80-100,MgSO₄,11.48,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,85-105,DAP + MOP,10.79,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,90-110,MgSO₄,10.39,Once/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,95-115,Urea (N),5.33,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,100-120,DAP + MOP,5.47,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,105-125,NPK 12:32:16,7.57,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,110-130,SOP (K₂SO₄),11.47,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,115-135,ZnSO₄,3.08,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,120-140,Ca(NO₃)₂,5.13,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,125-145,NPK 19:19:19,9.13,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,130-150,DAP + MOP,9.79,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,135-155,DAP + MOP,8.14,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,140-160,Urea (N),1.29,Weekly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,145-165,Urea (N),11.94,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,150-170,Ca(NO₃)₂,7.77,Quarterly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,155-175,MgSO₄,10.48,Once/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,160-180,ZnSO₄,8.9,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,165-185,MgSO₄,8.69,Once/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,170-190,DAP + MOP,5.86,Once/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,175-195,NPK 19:19:19,8.85,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,180-200,Ca(NO₃)₂,2.79,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,185-205,MgSO₄,6.04,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,190-210,SSP,6.5,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,195-215,MgSO₄,11.16,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,200-220,NPK 20:10:10,7.9,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,205-225,SOP (K₂SO₄),4.91,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,210-230,NPK 12:32:16,10.29,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,215-235,ZnSO₄,2.43,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,220-240,SOP (K₂SO₄),6.76,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,225-245,MgSO₄,2.69,Twice/month,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,230-250,DAP + MOP,6.37,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,235-255,Urea (N),4.54,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,240-260,NPK 20:10:10,6.08,Twice/week,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,245-265,MgSO₄,2.13,Weekly,5-7 cm standing water,Every 4 days
+Black Pepper,Flowering,250-270,SOP (K₂SO₄),7.6,Monthly,5-7 cm standing water,Every 4 days
+Black Pepper,Fruiting,5-25,Ca(NO₃)₂,2.61,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,10-30,Ca(NO₃)₂,2.74,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,15-35,NPK 19:19:19,5.24,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,20-40,NPK 19:19:19,9.63,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,25-45,SOP (K₂SO₄),10.78,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,30-50,DAP + MOP,1,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,35-55,MgSO₄,8.47,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,40-60,SOP (K₂SO₄),6.13,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,45-65,SSP,10.67,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,50-70,Urea (N),4.5,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,55-75,Ca(NO₃)₂,9.92,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,60-80,MgSO₄,9.47,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,65-85,NPK 19:19:19,11.11,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,70-90,ZnSO₄,7.52,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,75-95,SSP,9.26,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,80-100,MgSO₄,1.25,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,85-105,SSP,2.86,Once/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,90-110,MgSO₄,1.54,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,95-115,NPK 12:32:16,1.41,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,100-120,SSP,2.94,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,105-125,Urea (N),2.31,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,110-130,Urea (N),11.52,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,115-135,NPK 20:10:10,10.01,Once/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,120-140,SSP,8.52,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,125-145,Urea (N),6.16,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,130-150,ZnSO₄,8.23,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,135-155,SSP,4.37,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,140-160,ZnSO₄,3.06,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,145-165,DAP + MOP,5.1,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,150-170,NPK 19:19:19,4.78,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,155-175,NPK 12:32:16,10.43,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,160-180,SSP,5.78,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,165-185,NPK 12:32:16,2.7,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,170-190,Urea (N),2.29,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,175-195,NPK 12:32:16,10.55,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,180-200,NPK 20:10:10,5.05,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,185-205,DAP + MOP,2.39,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,190-210,SSP,6.85,Weekly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,195-215,NPK 19:19:19,7.93,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,200-220,ZnSO₄,6.4,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,205-225,NPK 12:32:16,8.3,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,210-230,Ca(NO₃)₂,11.93,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,215-235,NPK 12:32:16,11,Once/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,220-240,SOP (K₂SO₄),4.07,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,225-245,SOP (K₂SO₄),6.54,Quarterly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,230-250,SOP (K₂SO₄),3.84,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,235-255,DAP + MOP,11.48,Monthly,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,240-260,NPK 19:19:19,11.51,Twice/month,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,245-265,Ca(NO₃)₂,11.26,Twice/week,50-70 mm,Weekly / 2 times per week
+Black Pepper,Fruiting,250-270,Urea (N),3.23,Once/week,50-70 mm,Weekly / 2 times per week
+Rubber,Immature (0-3 yrs),5-25,NPK 12:32:16,7.68,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),10-30,NPK 12:32:16,9.04,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),15-35,DAP + MOP,11.76,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),20-40,DAP + MOP,4.69,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),25-45,NPK 12:32:16,11.04,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),30-50,NPK 20:10:10,10.86,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),35-55,DAP + MOP,8.62,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),40-60,DAP + MOP,9.45,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),45-65,DAP + MOP,3.33,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),50-70,SOP (K₂SO₄),4.47,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),55-75,Ca(NO₃)₂,4.76,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),60-80,DAP + MOP,2.3,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),65-85,DAP + MOP,5.91,Once/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),70-90,SSP,4.06,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),75-95,DAP + MOP,8.02,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),80-100,NPK 19:19:19,8.34,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),85-105,NPK 20:10:10,6.05,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),90-110,DAP + MOP,7.48,Monthly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),95-115,SSP,10.84,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),100-120,MgSO₄,2.41,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),105-125,Urea (N),8.1,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),110-130,NPK 19:19:19,6.75,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),115-135,SOP (K₂SO₄),6.77,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),120-140,NPK 19:19:19,9.46,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),125-145,Urea (N),1.25,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),130-150,NPK 19:19:19,7.41,Monthly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),135-155,Urea (N),4.3,Once/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),140-160,SOP (K₂SO₄),11.42,Once/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),145-165,NPK 12:32:16,2.28,Monthly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),150-170,SOP (K₂SO₄),11.2,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),155-175,Ca(NO₃)₂,7.96,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),160-180,Ca(NO₃)₂,3.36,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),165-185,NPK 12:32:16,5.27,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),170-190,MgSO₄,1.81,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),175-195,MgSO₄,10.91,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),180-200,NPK 19:19:19,5.07,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),185-205,Urea (N),3.8,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),190-210,MgSO₄,4.27,Once/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),195-215,NPK 19:19:19,3.02,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),200-220,SSP,8.23,Once/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),205-225,Ca(NO₃)₂,4.66,Once/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),210-230,Urea (N),3.93,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),215-235,SOP (K₂SO₄),2.11,Twice/week,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),220-240,NPK 20:10:10,4.25,Monthly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),225-245,SSP,7.2,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),230-250,Urea (N),4.41,Weekly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),235-255,Ca(NO₃)₂,3.98,Monthly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),240-260,MgSO₄,8.26,Twice/month,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),245-265,DAP + MOP,3.82,Quarterly,30-40 mm,Weekly
+Rubber,Immature (0-3 yrs),250-270,NPK 20:10:10,4.57,Once/week,30-40 mm,Weekly
+Rubber,Immature (4-6 yrs),5-25,NPK 12:32:16,7.81,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),10-30,DAP + MOP,9.97,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),15-35,NPK 19:19:19,4.99,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),20-40,NPK 12:32:16,10.81,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),25-45,ZnSO₄,3.78,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),30-50,Urea (N),11.47,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),35-55,MgSO₄,3.72,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),40-60,NPK 19:19:19,4.49,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),45-65,ZnSO₄,4.35,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),50-70,SSP,11.5,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),55-75,NPK 19:19:19,6.59,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),60-80,Ca(NO₃)₂,6.73,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),65-85,SSP,10.41,Twice/month,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),70-90,Urea (N),1.16,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),75-95,Urea (N),3.42,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),80-100,NPK 12:32:16,4.31,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),85-105,SSP,3.24,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),90-110,Ca(NO₃)₂,9.2,Twice/month,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),95-115,Urea (N),5.65,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),100-120,NPK 20:10:10,5.85,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),105-125,MgSO₄,3.22,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),110-130,NPK 20:10:10,5.73,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),115-135,Urea (N),8.5,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),120-140,NPK 20:10:10,9.93,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),125-145,MgSO₄,1.15,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),130-150,SOP (K₂SO₄),5.97,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),135-155,NPK 19:19:19,8.36,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),140-160,ZnSO₄,2.07,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),145-165,Urea (N),1.35,Twice/month,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),150-170,NPK 19:19:19,5.07,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),155-175,NPK 20:10:10,10.97,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),160-180,SSP,8.55,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),165-185,Ca(NO₃)₂,9.98,Twice/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),170-190,NPK 20:10:10,3.95,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),175-195,MgSO₄,8.25,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),180-200,SSP,11.49,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),185-205,DAP + MOP,11.01,Twice/month,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),190-210,MgSO₄,3.74,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),195-215,NPK 20:10:10,11.28,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),200-220,Urea (N),4.6,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),205-225,Ca(NO₃)₂,5.58,Quarterly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),210-230,SSP,11.38,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),215-235,Ca(NO₃)₂,8.73,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),220-240,NPK 12:32:16,10.05,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),225-245,NPK 12:32:16,5.76,Twice/month,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),230-250,NPK 12:32:16,11.13,Monthly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),235-255,NPK 19:19:19,6.34,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),240-260,DAP + MOP,4.22,Once/week,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),245-265,SOP (K₂SO₄),5.25,Weekly,40-50 mm,Weekly
+Rubber,Immature (4-6 yrs),250-270,NPK 19:19:19,4.88,Once/week,40-50 mm,Weekly
+Rubber,Mature (Tapping),5-25,DAP + MOP,10.8,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),10-30,SOP (K₂SO₄),1.64,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),15-35,Ca(NO₃)₂,9.24,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),20-40,DAP + MOP,5,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),25-45,SSP,7.6,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),30-50,DAP + MOP,3.59,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),35-55,NPK 20:10:10,3.37,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),40-60,NPK 20:10:10,8.81,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),45-65,SSP,11.02,Twice/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),50-70,Ca(NO₃)₂,3.3,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),55-75,SOP (K₂SO₄),8.12,Twice/month,50-60 mm,Weekly
+Rubber,Mature (Tapping),60-80,NPK 12:32:16,2.56,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),65-85,SSP,8.17,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),70-90,MgSO₄,10.06,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),75-95,SOP (K₂SO₄),9.86,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),80-100,NPK 20:10:10,5.22,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),85-105,Ca(NO₃)₂,10.9,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),90-110,NPK 12:32:16,4.96,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),95-115,SOP (K₂SO₄),10.44,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),100-120,Ca(NO₃)₂,1,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),105-125,NPK 19:19:19,1.23,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),110-130,NPK 20:10:10,10.64,Twice/month,50-60 mm,Weekly
+Rubber,Mature (Tapping),115-135,ZnSO₄,5.46,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),120-140,MgSO₄,4.92,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),125-145,NPK 19:19:19,11.89,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),130-150,NPK 12:32:16,1.74,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),135-155,SOP (K₂SO₄),5.08,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),140-160,NPK 19:19:19,7.21,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),145-165,NPK 19:19:19,10.48,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),150-170,SSP,6.76,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),155-175,NPK 20:10:10,8.9,Twice/month,50-60 mm,Weekly
+Rubber,Mature (Tapping),160-180,MgSO₄,2.67,Monthly,50-60 mm,Weekly
+Rubber,Mature (Tapping),165-185,MgSO₄,7.55,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),170-190,SSP,7.93,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),175-195,Urea (N),11.01,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),180-200,Urea (N),6.85,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),185-205,SOP (K₂SO₄),9.83,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),190-210,Ca(NO₃)₂,1.4,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),195-215,SOP (K₂SO₄),8.47,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),200-220,SSP,6.06,Twice/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),205-225,NPK 19:19:19,8.31,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),210-230,NPK 19:19:19,3.08,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),215-235,DAP + MOP,3.43,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),220-240,Urea (N),1.94,Twice/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),225-245,NPK 20:10:10,7,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),230-250,DAP + MOP,8.99,Once/week,50-60 mm,Weekly
+Rubber,Mature (Tapping),235-255,NPK 12:32:16,1.29,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),240-260,SOP (K₂SO₄),3.07,Weekly,50-60 mm,Weekly
+Rubber,Mature (Tapping),245-265,NPK 12:32:16,11.64,Quarterly,50-60 mm,Weekly
+Rubber,Mature (Tapping),250-270,DAP + MOP,11.06,Weekly,50-60 mm,Weekly
+Tomato,Vegetative,5-25,NPK 19:19:19,5.3,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,10-30,MgSO₄,3.76,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,15-35,NPK 19:19:19,9.91,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,20-40,SOP (K₂SO₄),10.63,Twice/month,30-40 mm,Weekly
+Tomato,Vegetative,25-45,NPK 20:10:10,11.09,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,30-50,NPK 12:32:16,11.99,Twice/week,30-40 mm,Weekly
+Tomato,Vegetative,35-55,NPK 20:10:10,11.92,Twice/month,30-40 mm,Weekly
+Tomato,Vegetative,40-60,DAP + MOP,10.17,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,45-65,ZnSO₄,7.09,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,50-70,ZnSO₄,4.41,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,55-75,SOP (K₂SO₄),10.92,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,60-80,MgSO₄,10.15,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,65-85,NPK 12:32:16,11.38,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,70-90,DAP + MOP,11.5,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,75-95,SSP,7.63,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,80-100,Urea (N),2.7,Twice/month,30-40 mm,Weekly
+Tomato,Vegetative,85-105,ZnSO₄,2.59,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,90-110,Ca(NO₃)₂,4.04,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,95-115,ZnSO₄,6.82,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,100-120,MgSO₄,1.05,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,105-125,SOP (K₂SO₄),11.74,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,110-130,SOP (K₂SO₄),10.96,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,115-135,NPK 19:19:19,10.98,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,120-140,Urea (N),2.63,Twice/week,30-40 mm,Weekly
+Tomato,Vegetative,125-145,NPK 20:10:10,8.36,Twice/month,30-40 mm,Weekly
+Tomato,Vegetative,130-150,MgSO₄,1.54,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,135-155,NPK 20:10:10,8.12,Twice/week,30-40 mm,Weekly
+Tomato,Vegetative,140-160,SOP (K₂SO₄),6.86,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,145-165,Ca(NO₃)₂,7.15,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,150-170,Urea (N),10.54,Twice/month,30-40 mm,Weekly
+Tomato,Vegetative,155-175,MgSO₄,9.33,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,160-180,SSP,10.86,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,165-185,MgSO₄,3.7,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,170-190,NPK 12:32:16,11.87,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,175-195,NPK 20:10:10,8.54,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,180-200,Urea (N),7.02,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,185-205,ZnSO₄,6.54,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,190-210,NPK 12:32:16,2.57,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,195-215,MgSO₄,7.57,Twice/week,30-40 mm,Weekly
+Tomato,Vegetative,200-220,NPK 20:10:10,6.99,Twice/week,30-40 mm,Weekly
+Tomato,Vegetative,205-225,MgSO₄,4.66,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,210-230,NPK 12:32:16,5.66,Once/week,30-40 mm,Weekly
+Tomato,Vegetative,215-235,MgSO₄,8.86,Quarterly,30-40 mm,Weekly
+Tomato,Vegetative,220-240,SSP,9.82,Twice/month,30-40 mm,Weekly
+Tomato,Vegetative,225-245,Ca(NO₃)₂,10.62,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,230-250,ZnSO₄,5.66,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,235-255,ZnSO₄,10.02,Monthly,30-40 mm,Weekly
+Tomato,Vegetative,240-260,NPK 19:19:19,10.16,Twice/week,30-40 mm,Weekly
+Tomato,Vegetative,245-265,SSP,7.15,Weekly,30-40 mm,Weekly
+Tomato,Vegetative,250-270,SSP,1.08,Twice/month,30-40 mm,Weekly
+Tomato,Flowering,5-25,NPK 12:32:16,10.58,Weekly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,10-30,SOP (K₂SO₄),7.06,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,15-35,NPK 12:32:16,7.65,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,20-40,MgSO₄,10.32,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,25-45,MgSO₄,1.12,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,30-50,Ca(NO₃)₂,4.52,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,35-55,SSP,3.38,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,40-60,Ca(NO₃)₂,11.1,Monthly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,45-65,SOP (K₂SO₄),8.85,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,50-70,SSP,3.75,Monthly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,55-75,NPK 20:10:10,7.72,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,60-80,NPK 19:19:19,3.58,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,65-85,ZnSO₄,6.1,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,70-90,SSP,10.77,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,75-95,SOP (K₂SO₄),11.21,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,80-100,ZnSO₄,2.04,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,85-105,NPK 12:32:16,5.11,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,90-110,DAP + MOP,1.29,Once/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,95-115,NPK 19:19:19,7.57,Monthly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,100-120,MgSO₄,1.7,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,105-125,Ca(NO₃)₂,8.87,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,110-130,SSP,6.68,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,115-135,SOP (K₂SO₄),7.16,Monthly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,120-140,SOP (K₂SO₄),9.24,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,125-145,NPK 20:10:10,9.86,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,130-150,ZnSO₄,11.34,Weekly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,135-155,MgSO₄,10.29,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,140-160,NPK 12:32:16,11.52,Once/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,145-165,SOP (K₂SO₄),7.66,Once/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,150-170,SOP (K₂SO₄),7.78,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,155-175,ZnSO₄,6.92,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,160-180,DAP + MOP,1.22,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,165-185,NPK 20:10:10,6.27,Weekly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,170-190,NPK 19:19:19,8.48,Weekly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,175-195,SOP (K₂SO₄),10.45,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,180-200,SOP (K₂SO₄),4.23,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,185-205,NPK 19:19:19,9.09,Twice/month,5-7 cm standing water,Every 4 days
+Tomato,Flowering,190-210,ZnSO₄,9.78,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,195-215,NPK 12:32:16,11.74,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,200-220,NPK 20:10:10,3.73,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,205-225,NPK 20:10:10,3.44,Weekly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,210-230,MgSO₄,10.64,Once/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,215-235,DAP + MOP,8.73,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,220-240,Ca(NO₃)₂,10.85,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,225-245,Ca(NO₃)₂,5.77,Once/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,230-250,Urea (N),11,Weekly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,235-255,MgSO₄,4.9,Twice/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,240-260,NPK 20:10:10,4.65,Monthly,5-7 cm standing water,Every 4 days
+Tomato,Flowering,245-265,Ca(NO₃)₂,2.83,Once/week,5-7 cm standing water,Every 4 days
+Tomato,Flowering,250-270,ZnSO₄,6.2,Quarterly,5-7 cm standing water,Every 4 days
+Tomato,Fruiting,5-25,NPK 19:19:19,4.39,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,10-30,NPK 12:32:16,10.09,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,15-35,MgSO₄,6.01,Twice/month,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,20-40,Urea (N),9.96,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,25-45,NPK 19:19:19,7.05,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,30-50,NPK 19:19:19,9.5,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,35-55,SSP,8.29,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,40-60,ZnSO₄,2.64,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,45-65,DAP + MOP,9.5,Twice/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,50-70,NPK 12:32:16,9.48,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,55-75,NPK 19:19:19,11.24,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,60-80,ZnSO₄,7.98,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,65-85,NPK 20:10:10,9.36,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,70-90,DAP + MOP,6.83,Twice/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,75-95,Urea (N),1.4,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,80-100,NPK 19:19:19,11.47,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,85-105,SOP (K₂SO₄),6.46,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,90-110,DAP + MOP,1.38,Twice/month,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,95-115,NPK 20:10:10,5.33,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,100-120,Ca(NO₃)₂,11.9,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,105-125,Urea (N),4.24,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,110-130,NPK 12:32:16,10.69,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,115-135,MgSO₄,9.44,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,120-140,Ca(NO₃)₂,11.72,Twice/month,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,125-145,SSP,11.65,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,130-150,SOP (K₂SO₄),5.89,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,135-155,NPK 19:19:19,10.99,Twice/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,140-160,SOP (K₂SO₄),1.55,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,145-165,Ca(NO₃)₂,11.66,Twice/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,150-170,DAP + MOP,5.52,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,155-175,Urea (N),6.06,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,160-180,Ca(NO₃)₂,2.59,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,165-185,Ca(NO₃)₂,5.87,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,170-190,NPK 20:10:10,7.34,Twice/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,175-195,SOP (K₂SO₄),10.65,Weekly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,180-200,MgSO₄,1.67,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,185-205,ZnSO₄,3.97,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,190-210,NPK 20:10:10,11.7,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,195-215,MgSO₄,8,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,200-220,NPK 12:32:16,10.45,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,205-225,NPK 12:32:16,8.23,Twice/month,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,210-230,ZnSO₄,8.51,Quarterly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,215-235,ZnSO₄,8.63,Twice/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,220-240,MgSO₄,4.58,Twice/month,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,225-245,SOP (K₂SO₄),10.81,Monthly,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,230-250,SOP (K₂SO₄),11.4,Twice/month,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,235-255,Ca(NO₃)₂,11.58,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,240-260,SSP,1.02,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,245-265,NPK 12:32:16,6.62,Once/week,50-70 mm,Weekly / 2 times per week
+Tomato,Fruiting,250-270,NPK 19:19:19,9.63,Weekly,50-70 mm,Weekly / 2 times per week
+Chilli,Vegetative,5-25,ZnSO₄,6.11,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,10-30,ZnSO₄,3.38,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,15-35,NPK 20:10:10,9.31,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,20-40,Urea (N),7.65,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,25-45,NPK 20:10:10,8.6,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,30-50,DAP + MOP,5.47,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,35-55,NPK 12:32:16,8.85,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,40-60,DAP + MOP,10.43,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,45-65,NPK 12:32:16,6.61,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,50-70,NPK 19:19:19,7.62,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,55-75,NPK 20:10:10,8.77,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,60-80,ZnSO₄,10.57,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,65-85,MgSO₄,3.17,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,70-90,DAP + MOP,3.56,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,75-95,NPK 12:32:16,5.77,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,80-100,SSP,6.33,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,85-105,MgSO₄,10.61,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,90-110,ZnSO₄,9.88,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,95-115,SOP (K₂SO₄),5.22,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,100-120,Urea (N),8.18,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,105-125,NPK 19:19:19,3,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,110-130,NPK 19:19:19,8.21,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,115-135,NPK 12:32:16,3.7,Twice/month,30-40 mm,Weekly
+Chilli,Vegetative,120-140,MgSO₄,9.38,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,125-145,SSP,5.32,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,130-150,MgSO₄,2.61,Twice/month,30-40 mm,Weekly
+Chilli,Vegetative,135-155,Urea (N),4.45,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,140-160,MgSO₄,2.46,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,145-165,NPK 20:10:10,2.42,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,150-170,NPK 12:32:16,1.72,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,155-175,SOP (K₂SO₄),2.02,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,160-180,NPK 20:10:10,3.42,Twice/month,30-40 mm,Weekly
+Chilli,Vegetative,165-185,NPK 19:19:19,10.74,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,170-190,NPK 12:32:16,9.37,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,175-195,ZnSO₄,8.95,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,180-200,DAP + MOP,4.47,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,185-205,NPK 20:10:10,2.33,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,190-210,NPK 19:19:19,7.56,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,195-215,NPK 12:32:16,9.38,Twice/month,30-40 mm,Weekly
+Chilli,Vegetative,200-220,NPK 20:10:10,10.01,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,205-225,Urea (N),10.28,Twice/week,30-40 mm,Weekly
+Chilli,Vegetative,210-230,SOP (K₂SO₄),6.11,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,215-235,MgSO₄,7.51,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,220-240,DAP + MOP,7.73,Monthly,30-40 mm,Weekly
+Chilli,Vegetative,225-245,Ca(NO₃)₂,3.77,Twice/month,30-40 mm,Weekly
+Chilli,Vegetative,230-250,NPK 12:32:16,1.61,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,235-255,MgSO₄,6.24,Weekly,30-40 mm,Weekly
+Chilli,Vegetative,240-260,ZnSO₄,10.28,Quarterly,30-40 mm,Weekly
+Chilli,Vegetative,245-265,NPK 12:32:16,8.09,Once/week,30-40 mm,Weekly
+Chilli,Vegetative,250-270,NPK 12:32:16,3.12,Twice/week,30-40 mm,Weekly
+Chilli,Flowering,5-25,DAP + MOP,9.79,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,10-30,NPK 20:10:10,4.81,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,15-35,NPK 19:19:19,6.51,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,20-40,NPK 19:19:19,10.58,Weekly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,25-45,SOP (K₂SO₄),6.98,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,30-50,DAP + MOP,4.44,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,35-55,NPK 20:10:10,5.29,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,40-60,MgSO₄,1.12,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,45-65,NPK 12:32:16,2.26,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,50-70,ZnSO₄,3.07,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,55-75,NPK 12:32:16,2.04,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,60-80,NPK 12:32:16,6.14,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,65-85,MgSO₄,11.74,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,70-90,MgSO₄,9.28,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,75-95,SSP,1.81,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,80-100,NPK 20:10:10,1.73,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,85-105,SOP (K₂SO₄),6.46,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,90-110,NPK 19:19:19,10.22,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,95-115,NPK 19:19:19,8.49,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,100-120,DAP + MOP,11.01,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,105-125,Urea (N),6.55,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,110-130,NPK 20:10:10,10.42,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,115-135,ZnSO₄,11.5,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,120-140,MgSO₄,10.27,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,125-145,NPK 20:10:10,1.15,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,130-150,Urea (N),11.49,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,135-155,MgSO₄,10.67,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,140-160,Ca(NO₃)₂,4.11,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,145-165,SOP (K₂SO₄),4.37,Weekly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,150-170,SOP (K₂SO₄),9.85,Weekly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,155-175,NPK 12:32:16,5.32,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,160-180,NPK 20:10:10,11.2,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,165-185,ZnSO₄,9.7,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,170-190,SSP,11.34,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,175-195,Urea (N),2.33,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,180-200,Urea (N),10.64,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,185-205,SOP (K₂SO₄),7.42,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,190-210,SOP (K₂SO₄),7.17,Twice/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,195-215,NPK 20:10:10,2.92,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,200-220,Urea (N),10.37,Weekly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,205-225,ZnSO₄,3.1,Weekly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,210-230,SSP,1.37,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,215-235,SOP (K₂SO₄),2.29,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,220-240,MgSO₄,2.06,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,225-245,Ca(NO₃)₂,6.53,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,230-250,Urea (N),10.74,Once/week,5-7 cm standing water,Every 4 days
+Chilli,Flowering,235-255,Ca(NO₃)₂,10.81,Twice/month,5-7 cm standing water,Every 4 days
+Chilli,Flowering,240-260,DAP + MOP,9.74,Quarterly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,245-265,DAP + MOP,7.23,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Flowering,250-270,MgSO₄,8.92,Monthly,5-7 cm standing water,Every 4 days
+Chilli,Fruiting,5-25,NPK 19:19:19,9.64,Weekly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,10-30,NPK 12:32:16,8.61,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,15-35,NPK 12:32:16,4.61,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,20-40,NPK 12:32:16,6.51,Twice/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,25-45,NPK 20:10:10,11.57,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,30-50,NPK 12:32:16,7.07,Twice/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,35-55,DAP + MOP,11.05,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,40-60,SOP (K₂SO₄),1.54,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,45-65,NPK 12:32:16,4.79,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,50-70,SSP,8.06,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,55-75,SSP,11.38,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,60-80,DAP + MOP,5.67,Twice/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,65-85,Ca(NO₃)₂,4.1,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,70-90,ZnSO₄,1.06,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,75-95,DAP + MOP,10.21,Weekly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,80-100,SSP,11.72,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,85-105,NPK 12:32:16,3.15,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,90-110,NPK 20:10:10,10.34,Weekly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,95-115,NPK 19:19:19,9.86,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,100-120,NPK 12:32:16,5.76,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,105-125,Ca(NO₃)₂,1.87,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,110-130,NPK 12:32:16,3.54,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,115-135,Urea (N),5.05,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,120-140,ZnSO₄,9.01,Weekly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,125-145,DAP + MOP,11.94,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,130-150,NPK 19:19:19,7.38,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,135-155,SSP,9.92,Twice/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,140-160,SSP,11.5,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,145-165,NPK 12:32:16,11.51,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,150-170,NPK 19:19:19,1.68,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,155-175,Ca(NO₃)₂,8.41,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,160-180,Ca(NO₃)₂,3.77,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,165-185,NPK 20:10:10,1.35,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,170-190,SSP,6.67,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,175-195,MgSO₄,4.41,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,180-200,Urea (N),11.86,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,185-205,MgSO₄,4.43,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,190-210,MgSO₄,7.64,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,195-215,SSP,7.87,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,200-220,NPK 20:10:10,7.39,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,205-225,DAP + MOP,5.54,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,210-230,ZnSO₄,9.55,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,215-235,NPK 12:32:16,7.55,Quarterly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,220-240,MgSO₄,5.59,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,225-245,Ca(NO₃)₂,11.31,Twice/month,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,230-250,ZnSO₄,8.93,Weekly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,235-255,Urea (N),1.63,Twice/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,240-260,MgSO₄,10.67,Monthly,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,245-265,Ca(NO₃)₂,10.08,Once/week,50-70 mm,Weekly / 2 times per week
+Chilli,Fruiting,250-270,MgSO₄,8.1,Once/week,50-70 mm,Weekly / 2 times per week
+Arecanut,Seedling,5-25,SOP (K₂SO₄),5.25,Twice/week,20 mm,Twice/week
+Arecanut,Seedling,10-30,SSP,3.26,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,15-35,Ca(NO₃)₂,8.77,Weekly,20 mm,Twice/week
+Arecanut,Seedling,20-40,Ca(NO₃)₂,5.62,Monthly,20 mm,Twice/week
+Arecanut,Seedling,25-45,Urea (N),6.9,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,30-50,DAP + MOP,9.68,Monthly,20 mm,Twice/week
+Arecanut,Seedling,35-55,SOP (K₂SO₄),10.83,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,40-60,SSP,6.35,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,45-65,SOP (K₂SO₄),7.53,Once/week,20 mm,Twice/week
+Arecanut,Seedling,50-70,SSP,2.01,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,55-75,NPK 20:10:10,4.55,Weekly,20 mm,Twice/week
+Arecanut,Seedling,60-80,NPK 20:10:10,1.68,Once/week,20 mm,Twice/week
+Arecanut,Seedling,65-85,MgSO₄,2.6,Weekly,20 mm,Twice/week
+Arecanut,Seedling,70-90,MgSO₄,6.61,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,75-95,NPK 12:32:16,1.6,Twice/week,20 mm,Twice/week
+Arecanut,Seedling,80-100,ZnSO₄,2.4,Monthly,20 mm,Twice/week
+Arecanut,Seedling,85-105,DAP + MOP,2.54,Weekly,20 mm,Twice/week
+Arecanut,Seedling,90-110,SOP (K₂SO₄),9.99,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,95-115,NPK 20:10:10,1.76,Weekly,20 mm,Twice/week
+Arecanut,Seedling,100-120,NPK 20:10:10,6.9,Twice/week,20 mm,Twice/week
+Arecanut,Seedling,105-125,MgSO₄,9.4,Weekly,20 mm,Twice/week
+Arecanut,Seedling,110-130,DAP + MOP,10.93,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,115-135,SSP,5.28,Once/week,20 mm,Twice/week
+Arecanut,Seedling,120-140,NPK 12:32:16,9.64,Once/week,20 mm,Twice/week
+Arecanut,Seedling,125-145,SOP (K₂SO₄),3.84,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,130-150,SSP,5.96,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,135-155,Urea (N),9.08,Twice/week,20 mm,Twice/week
+Arecanut,Seedling,140-160,Urea (N),8.39,Once/week,20 mm,Twice/week
+Arecanut,Seedling,145-165,SSP,2.57,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,150-170,NPK 20:10:10,1.13,Weekly,20 mm,Twice/week
+Arecanut,Seedling,155-175,SOP (K₂SO₄),3.81,Once/week,20 mm,Twice/week
+Arecanut,Seedling,160-180,NPK 19:19:19,4.81,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,165-185,Urea (N),9.28,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,170-190,MgSO₄,4.06,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,175-195,NPK 12:32:16,7.5,Once/week,20 mm,Twice/week
+Arecanut,Seedling,180-200,Ca(NO₃)₂,2.01,Once/week,20 mm,Twice/week
+Arecanut,Seedling,185-205,NPK 12:32:16,9.36,Monthly,20 mm,Twice/week
+Arecanut,Seedling,190-210,NPK 20:10:10,9.16,Quarterly,20 mm,Twice/week
+Arecanut,Seedling,195-215,MgSO₄,7.68,Weekly,20 mm,Twice/week
+Arecanut,Seedling,200-220,ZnSO₄,3.32,Monthly,20 mm,Twice/week
+Arecanut,Seedling,205-225,SSP,6.06,Weekly,20 mm,Twice/week
+Arecanut,Seedling,210-230,SOP (K₂SO₄),8.95,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,215-235,Ca(NO₃)₂,5.46,Monthly,20 mm,Twice/week
+Arecanut,Seedling,220-240,DAP + MOP,8.77,Once/week,20 mm,Twice/week
+Arecanut,Seedling,225-245,MgSO₄,11.6,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,230-250,MgSO₄,11.9,Twice/month,20 mm,Twice/week
+Arecanut,Seedling,235-255,DAP + MOP,10.97,Weekly,20 mm,Twice/week
+Arecanut,Seedling,240-260,NPK 12:32:16,8.52,Once/week,20 mm,Twice/week
+Arecanut,Seedling,245-265,SOP (K₂SO₄),3.63,Weekly,20 mm,Twice/week
+Arecanut,Seedling,250-270,NPK 20:10:10,4.19,Twice/month,20 mm,Twice/week
+Arecanut,Juvenile,5-25,DAP + MOP,11.91,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,10-30,SSP,8.92,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,15-35,SSP,8.59,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,20-40,ZnSO₄,8.51,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,25-45,NPK 12:32:16,3.65,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,30-50,NPK 19:19:19,2.33,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,35-55,DAP + MOP,9.51,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,40-60,SOP (K₂SO₄),1.59,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,45-65,Urea (N),6.84,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,50-70,MgSO₄,9.79,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,55-75,Ca(NO₃)₂,11.93,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,60-80,NPK 19:19:19,5.24,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,65-85,Urea (N),11.13,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,70-90,NPK 20:10:10,4.16,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,75-95,MgSO₄,2.16,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,80-100,NPK 20:10:10,1.42,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,85-105,Urea (N),8.63,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,90-110,Ca(NO₃)₂,2.09,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,95-115,MgSO₄,3.49,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,100-120,NPK 19:19:19,1.55,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,105-125,MgSO₄,2.92,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,110-130,NPK 19:19:19,4.45,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,115-135,Ca(NO₃)₂,4.61,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,120-140,NPK 12:32:16,5.02,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,125-145,ZnSO₄,9.74,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,130-150,DAP + MOP,2.9,Twice/week,30-40 mm,Weekly
+Arecanut,Juvenile,135-155,MgSO₄,8.16,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,140-160,SSP,10.74,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,145-165,DAP + MOP,9.95,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,150-170,NPK 19:19:19,10.92,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,155-175,SSP,5.46,Twice/week,30-40 mm,Weekly
+Arecanut,Juvenile,160-180,ZnSO₄,7.47,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,165-185,NPK 20:10:10,10.57,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,170-190,DAP + MOP,7.63,Twice/week,30-40 mm,Weekly
+Arecanut,Juvenile,175-195,NPK 19:19:19,9.07,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,180-200,MgSO₄,5.62,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,185-205,MgSO₄,1.82,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,190-210,Ca(NO₃)₂,8.11,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,195-215,NPK 12:32:16,4.89,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,200-220,Ca(NO₃)₂,6.75,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,205-225,DAP + MOP,11,Twice/month,30-40 mm,Weekly
+Arecanut,Juvenile,210-230,Urea (N),3.23,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,215-235,DAP + MOP,10.03,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,220-240,SSP,4.57,Quarterly,30-40 mm,Weekly
+Arecanut,Juvenile,225-245,SSP,3.91,Weekly,30-40 mm,Weekly
+Arecanut,Juvenile,230-250,ZnSO₄,8.67,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,235-255,DAP + MOP,5.88,Once/week,30-40 mm,Weekly
+Arecanut,Juvenile,240-260,SSP,1.75,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,245-265,SSP,1.63,Monthly,30-40 mm,Weekly
+Arecanut,Juvenile,250-270,Urea (N),2.05,Once/week,30-40 mm,Weekly
+Arecanut,Mature,5-25,SOP (K₂SO₄),4.34,Once/week,50 mm,Weekly
+Arecanut,Mature,10-30,SSP,11,Monthly,50 mm,Weekly
+Arecanut,Mature,15-35,SSP,9.56,Quarterly,50 mm,Weekly
+Arecanut,Mature,20-40,NPK 20:10:10,7.33,Twice/month,50 mm,Weekly
+Arecanut,Mature,25-45,SSP,7.41,Weekly,50 mm,Weekly
+Arecanut,Mature,30-50,SSP,8.87,Twice/week,50 mm,Weekly
+Arecanut,Mature,35-55,NPK 20:10:10,7.23,Monthly,50 mm,Weekly
+Arecanut,Mature,40-60,SOP (K₂SO₄),6.48,Twice/week,50 mm,Weekly
+Arecanut,Mature,45-65,SOP (K₂SO₄),1.87,Once/week,50 mm,Weekly
+Arecanut,Mature,50-70,SSP,1.5,Weekly,50 mm,Weekly
+Arecanut,Mature,55-75,NPK 20:10:10,8.76,Once/week,50 mm,Weekly
+Arecanut,Mature,60-80,DAP + MOP,10.47,Quarterly,50 mm,Weekly
+Arecanut,Mature,65-85,ZnSO₄,11.3,Once/week,50 mm,Weekly
+Arecanut,Mature,70-90,Urea (N),7.79,Twice/month,50 mm,Weekly
+Arecanut,Mature,75-95,MgSO₄,11.85,Twice/month,50 mm,Weekly
+Arecanut,Mature,80-100,SOP (K₂SO₄),8.25,Monthly,50 mm,Weekly
+Arecanut,Mature,85-105,Ca(NO₃)₂,10.67,Quarterly,50 mm,Weekly
+Arecanut,Mature,90-110,NPK 20:10:10,7.6,Monthly,50 mm,Weekly
+Arecanut,Mature,95-115,Ca(NO₃)₂,10.77,Weekly,50 mm,Weekly
+Arecanut,Mature,100-120,Ca(NO₃)₂,3.18,Weekly,50 mm,Weekly
+Arecanut,Mature,105-125,Ca(NO₃)₂,9.77,Twice/month,50 mm,Weekly
+Arecanut,Mature,110-130,NPK 12:32:16,2.94,Quarterly,50 mm,Weekly
+Arecanut,Mature,115-135,Ca(NO₃)₂,3.72,Twice/week,50 mm,Weekly
+Arecanut,Mature,120-140,SSP,7.74,Weekly,50 mm,Weekly
+Arecanut,Mature,125-145,MgSO₄,3.06,Twice/month,50 mm,Weekly
+Arecanut,Mature,130-150,NPK 12:32:16,9.96,Twice/month,50 mm,Weekly
+Arecanut,Mature,135-155,NPK 20:10:10,8.38,Twice/month,50 mm,Weekly
+Arecanut,Mature,140-160,SOP (K₂SO₄),7.09,Once/week,50 mm,Weekly
+Arecanut,Mature,145-165,Urea (N),10.04,Twice/month,50 mm,Weekly
+Arecanut,Mature,150-170,SOP (K₂SO₄),6.61,Twice/month,50 mm,Weekly
+Arecanut,Mature,155-175,Urea (N),5.81,Monthly,50 mm,Weekly
+Arecanut,Mature,160-180,MgSO₄,4.1,Quarterly,50 mm,Weekly
+Arecanut,Mature,165-185,NPK 12:32:16,1.68,Twice/week,50 mm,Weekly
+Arecanut,Mature,170-190,Ca(NO₃)₂,4.52,Quarterly,50 mm,Weekly
+Arecanut,Mature,175-195,NPK 12:32:16,6.13,Monthly,50 mm,Weekly
+Arecanut,Mature,180-200,NPK 19:19:19,7.35,Twice/week,50 mm,Weekly
+Arecanut,Mature,185-205,Ca(NO₃)₂,6.72,Twice/week,50 mm,Weekly
+Arecanut,Mature,190-210,MgSO₄,8.2,Quarterly,50 mm,Weekly
+Arecanut,Mature,195-215,MgSO₄,7.56,Twice/month,50 mm,Weekly
+Arecanut,Mature,200-220,Urea (N),4.31,Quarterly,50 mm,Weekly
+Arecanut,Mature,205-225,Ca(NO₃)₂,4.12,Twice/week,50 mm,Weekly
+Arecanut,Mature,210-230,SSP,3.22,Monthly,50 mm,Weekly
+Arecanut,Mature,215-235,Urea (N),7.65,Weekly,50 mm,Weekly
+Arecanut,Mature,220-240,Ca(NO₃)₂,7.84,Weekly,50 mm,Weekly
+Arecanut,Mature,225-245,Urea (N),11.52,Quarterly,50 mm,Weekly
+Arecanut,Mature,230-250,Urea (N),11.28,Twice/week,50 mm,Weekly
+Arecanut,Mature,235-255,Urea (N),5.68,Quarterly,50 mm,Weekly
+Arecanut,Mature,240-260,SOP (K₂SO₄),11.46,Twice/week,50 mm,Weekly
+Arecanut,Mature,245-265,DAP + MOP,8.9,Weekly,50 mm,Weekly
+Arecanut,Mature,250-270,SSP,9.91,Once/week,50 mm,Weekly
+Cardamom,Vegetative,5-25,Ca(NO₃)₂,2.73,Once/week,30-40 mm,Weekly
+Cardamom,Vegetative,10-30,SSP,1.95,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,15-35,NPK 12:32:16,11.62,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,20-40,NPK 12:32:16,2.69,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,25-45,NPK 12:32:16,4.4,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,30-50,MgSO₄,9.26,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,35-55,NPK 12:32:16,5.34,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,40-60,NPK 19:19:19,10.72,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,45-65,Urea (N),2.58,Twice/month,30-40 mm,Weekly
+Cardamom,Vegetative,50-70,NPK 12:32:16,5.85,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,55-75,SSP,7.66,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,60-80,Ca(NO₃)₂,5.86,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,65-85,SSP,7.88,Twice/month,30-40 mm,Weekly
+Cardamom,Vegetative,70-90,Ca(NO₃)₂,11.61,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,75-95,Ca(NO₃)₂,2.96,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,80-100,NPK 12:32:16,9.37,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,85-105,MgSO₄,6.79,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,90-110,NPK 12:32:16,8.33,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,95-115,NPK 19:19:19,3.49,Once/week,30-40 mm,Weekly
+Cardamom,Vegetative,100-120,SSP,5.94,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,105-125,Ca(NO₃)₂,4.42,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,110-130,Ca(NO₃)₂,3.5,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,115-135,SSP,4.2,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,120-140,Ca(NO₃)₂,5.54,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,125-145,SSP,11.57,Once/week,30-40 mm,Weekly
+Cardamom,Vegetative,130-150,SOP (K₂SO₄),9.67,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,135-155,NPK 20:10:10,5,Twice/month,30-40 mm,Weekly
+Cardamom,Vegetative,140-160,Urea (N),10.51,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,145-165,NPK 20:10:10,8.37,Once/week,30-40 mm,Weekly
+Cardamom,Vegetative,150-170,Urea (N),3.85,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,155-175,ZnSO₄,8.41,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,160-180,MgSO₄,5.43,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,165-185,NPK 19:19:19,3.59,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,170-190,Urea (N),3.51,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,175-195,NPK 12:32:16,3.15,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,180-200,Urea (N),1.23,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,185-205,Ca(NO₃)₂,8.17,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,190-210,ZnSO₄,7.01,Twice/month,30-40 mm,Weekly
+Cardamom,Vegetative,195-215,SOP (K₂SO₄),3.26,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,200-220,MgSO₄,9.27,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,205-225,MgSO₄,5.56,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,210-230,NPK 19:19:19,6.98,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,215-235,NPK 12:32:16,10.84,Twice/week,30-40 mm,Weekly
+Cardamom,Vegetative,220-240,NPK 19:19:19,3.25,Once/week,30-40 mm,Weekly
+Cardamom,Vegetative,225-245,NPK 12:32:16,11.48,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,230-250,SSP,10.71,Weekly,30-40 mm,Weekly
+Cardamom,Vegetative,235-255,NPK 20:10:10,11.91,Twice/month,30-40 mm,Weekly
+Cardamom,Vegetative,240-260,Urea (N),8.74,Monthly,30-40 mm,Weekly
+Cardamom,Vegetative,245-265,SSP,1.02,Quarterly,30-40 mm,Weekly
+Cardamom,Vegetative,250-270,ZnSO₄,9.96,Once/week,30-40 mm,Weekly
+Cardamom,Flowering,5-25,MgSO₄,8.5,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,10-30,ZnSO₄,6.15,Twice/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,15-35,NPK 12:32:16,11.82,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,20-40,Ca(NO₃)₂,2.24,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,25-45,ZnSO₄,8.2,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,30-50,SOP (K₂SO₄),2.55,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,35-55,ZnSO₄,1.65,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,40-60,DAP + MOP,10.47,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,45-65,Urea (N),3.7,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,50-70,DAP + MOP,5.42,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,55-75,Ca(NO₃)₂,9.36,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,60-80,DAP + MOP,11.92,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,65-85,NPK 12:32:16,9.86,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,70-90,DAP + MOP,6.46,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,75-95,ZnSO₄,6.76,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,80-100,NPK 20:10:10,9.74,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,85-105,Ca(NO₃)₂,4.36,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,90-110,NPK 20:10:10,2.97,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,95-115,ZnSO₄,9.08,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,100-120,Ca(NO₃)₂,3.78,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,105-125,NPK 20:10:10,10.91,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,110-130,NPK 12:32:16,3.75,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,115-135,SSP,1.85,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,120-140,DAP + MOP,11,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,125-145,Ca(NO₃)₂,3.99,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,130-150,ZnSO₄,5.08,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,135-155,SOP (K₂SO₄),3.67,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,140-160,NPK 19:19:19,7.53,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,145-165,ZnSO₄,9.28,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,150-170,NPK 19:19:19,3.41,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,155-175,ZnSO₄,11.84,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,160-180,SOP (K₂SO₄),2.63,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,165-185,NPK 12:32:16,5.01,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,170-190,ZnSO₄,3.4,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,175-195,NPK 12:32:16,6.51,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,180-200,NPK 19:19:19,5.13,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,185-205,Ca(NO₃)₂,2.79,Twice/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,190-210,ZnSO₄,4.5,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,195-215,NPK 20:10:10,8.81,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,200-220,MgSO₄,5.5,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,205-225,MgSO₄,4.53,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,210-230,SOP (K₂SO₄),4.56,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,215-235,NPK 20:10:10,7.36,Weekly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,220-240,NPK 19:19:19,1.43,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,225-245,SOP (K₂SO₄),1.31,Monthly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,230-250,NPK 12:32:16,5.03,Twice/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,235-255,MgSO₄,8.88,Quarterly,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,240-260,DAP + MOP,8.25,Twice/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,245-265,DAP + MOP,8.57,Once/week,5-7 cm standing water,Every 4 days
+Cardamom,Flowering,250-270,DAP + MOP,7.93,Twice/month,5-7 cm standing water,Every 4 days
+Cardamom,Harvesting,5-25,ZnSO₄,1.01,Monthly,30 mm,As needed
+Cardamom,Harvesting,10-30,NPK 19:19:19,10.3,Quarterly,30 mm,As needed
+Cardamom,Harvesting,15-35,ZnSO₄,2.28,Once/week,30 mm,As needed
+Cardamom,Harvesting,20-40,NPK 12:32:16,6.73,Twice/week,30 mm,As needed
+Cardamom,Harvesting,25-45,NPK 12:32:16,9.42,Twice/month,30 mm,As needed
+Cardamom,Harvesting,30-50,NPK 20:10:10,11.04,Once/week,30 mm,As needed
+Cardamom,Harvesting,35-55,NPK 12:32:16,10.89,Twice/month,30 mm,As needed
+Cardamom,Harvesting,40-60,SSP,3.98,Weekly,30 mm,As needed
+Cardamom,Harvesting,45-65,NPK 19:19:19,4.55,Monthly,30 mm,As needed
+Cardamom,Harvesting,50-70,ZnSO₄,2.14,Monthly,30 mm,As needed
+Cardamom,Harvesting,55-75,Ca(NO₃)₂,3.58,Once/week,30 mm,As needed
+Cardamom,Harvesting,60-80,DAP + MOP,10.22,Twice/month,30 mm,As needed
+Cardamom,Harvesting,65-85,NPK 19:19:19,7.5,Weekly,30 mm,As needed
+Cardamom,Harvesting,70-90,DAP + MOP,6.81,Quarterly,30 mm,As needed
+Cardamom,Harvesting,75-95,NPK 20:10:10,4.06,Weekly,30 mm,As needed
+Cardamom,Harvesting,80-100,NPK 19:19:19,6.64,Twice/week,30 mm,As needed
+Cardamom,Harvesting,85-105,MgSO₄,2.47,Quarterly,30 mm,As needed
+Cardamom,Harvesting,90-110,SOP (K₂SO₄),7.81,Twice/week,30 mm,As needed
+Cardamom,Harvesting,95-115,SSP,4.77,Quarterly,30 mm,As needed
+Cardamom,Harvesting,100-120,NPK 19:19:19,1.19,Quarterly,30 mm,As needed
+Cardamom,Harvesting,105-125,ZnSO₄,3.77,Monthly,30 mm,As needed
+Cardamom,Harvesting,110-130,NPK 20:10:10,6.97,Weekly,30 mm,As needed
+Cardamom,Harvesting,115-135,NPK 20:10:10,4.51,Once/week,30 mm,As needed
+Cardamom,Harvesting,120-140,DAP + MOP,1.01,Weekly,30 mm,As needed
+Cardamom,Harvesting,125-145,NPK 20:10:10,1.97,Monthly,30 mm,As needed
+Cardamom,Harvesting,130-150,Ca(NO₃)₂,1.18,Weekly,30 mm,As needed
+Cardamom,Harvesting,135-155,DAP + MOP,7.44,Weekly,30 mm,As needed
+Cardamom,Harvesting,140-160,DAP + MOP,3.7,Monthly,30 mm,As needed
+Cardamom,Harvesting,145-165,NPK 19:19:19,6.57,Quarterly,30 mm,As needed
+Cardamom,Harvesting,150-170,NPK 19:19:19,9.79,Twice/week,30 mm,As needed
+Cardamom,Harvesting,155-175,NPK 20:10:10,9.87,Once/week,30 mm,As needed
+Cardamom,Harvesting,160-180,NPK 12:32:16,6.46,Twice/month,30 mm,As needed
+Cardamom,Harvesting,165-185,DAP + MOP,9.41,Twice/week,30 mm,As needed
+Cardamom,Harvesting,170-190,NPK 19:19:19,7.84,Twice/month,30 mm,As needed
+Cardamom,Harvesting,175-195,NPK 19:19:19,2.36,Twice/week,30 mm,As needed
+Cardamom,Harvesting,180-200,DAP + MOP,3.19,Once/week,30 mm,As needed
+Cardamom,Harvesting,185-205,SSP,5.29,Monthly,30 mm,As needed
+Cardamom,Harvesting,190-210,SSP,5.43,Twice/week,30 mm,As needed
+Cardamom,Harvesting,195-215,NPK 12:32:16,6.24,Quarterly,30 mm,As needed
+Cardamom,Harvesting,200-220,ZnSO₄,9.13,Weekly,30 mm,As needed
+Cardamom,Harvesting,205-225,NPK 12:32:16,3.43,Monthly,30 mm,As needed
+Cardamom,Harvesting,210-230,DAP + MOP,10.04,Monthly,30 mm,As needed
+Cardamom,Harvesting,215-235,NPK 12:32:16,2.93,Once/week,30 mm,As needed
+Cardamom,Harvesting,220-240,NPK 19:19:19,11.42,Once/week,30 mm,As needed
+Cardamom,Harvesting,225-245,NPK 12:32:16,1.68,Monthly,30 mm,As needed
+Cardamom,Harvesting,230-250,SSP,1.02,Twice/week,30 mm,As needed
+Cardamom,Harvesting,235-255,SSP,6.23,Quarterly,30 mm,As needed
+Cardamom,Harvesting,240-260,SSP,6.91,Weekly,30 mm,As needed
+Cardamom,Harvesting,245-265,DAP + MOP,1.89,Once/week,30 mm,As needed
+Cardamom,Harvesting,250-270,NPK 20:10:10,8.29,Twice/month,30 mm,As needed
+Ginger,Sprouting,5-25,DAP + MOP,1.15,Twice/month,20 mm,Twice/week
+Ginger,Sprouting,10-30,Ca(NO₃)₂,8.67,Monthly,20 mm,Twice/week
+Ginger,Sprouting,15-35,NPK 12:32:16,6.47,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,20-40,NPK 20:10:10,6.14,Monthly,20 mm,Twice/week
+Ginger,Sprouting,25-45,NPK 12:32:16,9.15,Twice/month,20 mm,Twice/week
+Ginger,Sprouting,30-50,NPK 20:10:10,4.68,Once/week,20 mm,Twice/week
+Ginger,Sprouting,35-55,NPK 19:19:19,11.12,Quarterly,20 mm,Twice/week
+Ginger,Sprouting,40-60,NPK 12:32:16,11.23,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,45-65,NPK 19:19:19,5.15,Weekly,20 mm,Twice/week
+Ginger,Sprouting,50-70,SSP,8.36,Monthly,20 mm,Twice/week
+Ginger,Sprouting,55-75,DAP + MOP,11.82,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,60-80,Urea (N),11.48,Monthly,20 mm,Twice/week
+Ginger,Sprouting,65-85,SSP,4.27,Once/week,20 mm,Twice/week
+Ginger,Sprouting,70-90,ZnSO₄,5.59,Weekly,20 mm,Twice/week
+Ginger,Sprouting,75-95,Ca(NO₃)₂,11.35,Weekly,20 mm,Twice/week
+Ginger,Sprouting,80-100,MgSO₄,10.06,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,85-105,NPK 20:10:10,1.88,Once/week,20 mm,Twice/week
+Ginger,Sprouting,90-110,NPK 20:10:10,2.93,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,95-115,Ca(NO₃)₂,4.45,Quarterly,20 mm,Twice/week
+Ginger,Sprouting,100-120,SOP (K₂SO₄),4.88,Monthly,20 mm,Twice/week
+Ginger,Sprouting,105-125,SOP (K₂SO₄),4.44,Weekly,20 mm,Twice/week
+Ginger,Sprouting,110-130,NPK 19:19:19,1.27,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,115-135,SSP,4.54,Monthly,20 mm,Twice/week
+Ginger,Sprouting,120-140,DAP + MOP,10.67,Weekly,20 mm,Twice/week
+Ginger,Sprouting,125-145,Urea (N),5.99,Weekly,20 mm,Twice/week
+Ginger,Sprouting,130-150,NPK 20:10:10,11.19,Quarterly,20 mm,Twice/week
+Ginger,Sprouting,135-155,NPK 20:10:10,8.83,Once/week,20 mm,Twice/week
+Ginger,Sprouting,140-160,DAP + MOP,5.71,Quarterly,20 mm,Twice/week
+Ginger,Sprouting,145-165,DAP + MOP,9.71,Monthly,20 mm,Twice/week
+Ginger,Sprouting,150-170,DAP + MOP,9.4,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,155-175,Urea (N),5.32,Once/week,20 mm,Twice/week
+Ginger,Sprouting,160-180,DAP + MOP,10.93,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,165-185,NPK 12:32:16,4.85,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,170-190,Ca(NO₃)₂,4.95,Weekly,20 mm,Twice/week
+Ginger,Sprouting,175-195,NPK 12:32:16,8.07,Monthly,20 mm,Twice/week
+Ginger,Sprouting,180-200,NPK 20:10:10,9.18,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,185-205,NPK 20:10:10,4.99,Twice/month,20 mm,Twice/week
+Ginger,Sprouting,190-210,DAP + MOP,1.13,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,195-215,SSP,10.65,Once/week,20 mm,Twice/week
+Ginger,Sprouting,200-220,NPK 20:10:10,7.85,Weekly,20 mm,Twice/week
+Ginger,Sprouting,205-225,SOP (K₂SO₄),6.06,Twice/month,20 mm,Twice/week
+Ginger,Sprouting,210-230,SOP (K₂SO₄),11.4,Once/week,20 mm,Twice/week
+Ginger,Sprouting,215-235,SSP,3.24,Once/week,20 mm,Twice/week
+Ginger,Sprouting,220-240,NPK 20:10:10,5.35,Monthly,20 mm,Twice/week
+Ginger,Sprouting,225-245,ZnSO₄,11.84,Once/week,20 mm,Twice/week
+Ginger,Sprouting,230-250,DAP + MOP,4.67,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,235-255,Urea (N),3.44,Quarterly,20 mm,Twice/week
+Ginger,Sprouting,240-260,Ca(NO₃)₂,10.89,Twice/week,20 mm,Twice/week
+Ginger,Sprouting,245-265,NPK 20:10:10,10.4,Quarterly,20 mm,Twice/week
+Ginger,Sprouting,250-270,NPK 20:10:10,8.63,Twice/month,20 mm,Twice/week
+Ginger,Vegetative,5-25,Urea (N),4.53,Once/week,30-40 mm,Weekly
+Ginger,Vegetative,10-30,NPK 12:32:16,9.21,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,15-35,NPK 19:19:19,7.86,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,20-40,SOP (K₂SO₄),2.39,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,25-45,Ca(NO₃)₂,8.68,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,30-50,NPK 19:19:19,10.8,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,35-55,NPK 12:32:16,8.24,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,40-60,SSP,9.57,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,45-65,ZnSO₄,2.47,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,50-70,NPK 19:19:19,7.84,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,55-75,MgSO₄,8.5,Once/week,30-40 mm,Weekly
+Ginger,Vegetative,60-80,SOP (K₂SO₄),3.68,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,65-85,NPK 12:32:16,6.81,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,70-90,DAP + MOP,11,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,75-95,NPK 12:32:16,7.93,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,80-100,Ca(NO₃)₂,6.69,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,85-105,ZnSO₄,2.71,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,90-110,DAP + MOP,9.19,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,95-115,NPK 19:19:19,1.58,Once/week,30-40 mm,Weekly
+Ginger,Vegetative,100-120,DAP + MOP,7.01,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,105-125,NPK 12:32:16,3.67,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,110-130,Ca(NO₃)₂,9.81,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,115-135,ZnSO₄,5.75,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,120-140,NPK 20:10:10,7.43,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,125-145,ZnSO₄,10.06,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,130-150,DAP + MOP,3.14,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,135-155,DAP + MOP,6.69,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,140-160,NPK 19:19:19,4.95,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,145-165,NPK 20:10:10,2.91,Once/week,30-40 mm,Weekly
+Ginger,Vegetative,150-170,MgSO₄,10.12,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,155-175,SOP (K₂SO₄),4.4,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,160-180,SSP,11.97,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,165-185,NPK 19:19:19,9.32,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,170-190,SOP (K₂SO₄),10.5,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,175-195,SSP,7.4,Once/week,30-40 mm,Weekly
+Ginger,Vegetative,180-200,DAP + MOP,1.25,Quarterly,30-40 mm,Weekly
+Ginger,Vegetative,185-205,SOP (K₂SO₄),1.46,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,190-210,NPK 20:10:10,9.14,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,195-215,NPK 20:10:10,3.26,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,200-220,DAP + MOP,10.62,Weekly,30-40 mm,Weekly
+Ginger,Vegetative,205-225,DAP + MOP,11.22,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,210-230,Ca(NO₃)₂,6.87,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,215-235,Ca(NO₃)₂,1.83,Twice/month,30-40 mm,Weekly
+Ginger,Vegetative,220-240,DAP + MOP,1.01,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,225-245,MgSO₄,11.41,Once/week,30-40 mm,Weekly
+Ginger,Vegetative,230-250,Ca(NO₃)₂,3.06,Twice/week,30-40 mm,Weekly
+Ginger,Vegetative,235-255,SSP,9.54,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,240-260,NPK 20:10:10,9.89,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,245-265,NPK 20:10:10,2.86,Monthly,30-40 mm,Weekly
+Ginger,Vegetative,250-270,SOP (K₂SO₄),5.17,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,5-25,MgSO₄,4.24,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,10-30,Ca(NO₃)₂,8.04,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,15-35,NPK 19:19:19,9.2,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,20-40,NPK 20:10:10,4.79,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,25-45,SOP (K₂SO₄),2.91,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,30-50,NPK 19:19:19,8.64,Twice/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,35-55,NPK 20:10:10,5.08,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,40-60,NPK 20:10:10,1.21,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,45-65,Ca(NO₃)₂,2.49,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,50-70,Urea (N),4.47,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,55-75,ZnSO₄,2.37,Twice/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,60-80,SSP,3.23,Twice/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,65-85,SOP (K₂SO₄),4.06,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,70-90,Ca(NO₃)₂,5.89,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,75-95,SSP,2.48,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,80-100,NPK 20:10:10,2.15,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,85-105,NPK 19:19:19,2.83,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,90-110,DAP + MOP,7.89,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,95-115,Urea (N),1.08,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,100-120,NPK 12:32:16,8.76,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,105-125,SSP,1.39,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,110-130,Urea (N),10.79,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,115-135,NPK 12:32:16,3.02,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,120-140,MgSO₄,11.97,Once/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,125-145,DAP + MOP,6.24,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,130-150,NPK 19:19:19,2.48,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,135-155,Ca(NO₃)₂,3.19,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,140-160,Urea (N),10.33,Once/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,145-165,NPK 20:10:10,1.36,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,150-170,Ca(NO₃)₂,9.01,Once/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,155-175,SOP (K₂SO₄),7.74,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,160-180,DAP + MOP,4.7,Twice/week,30-40 mm,Weekly
+Ginger,Rhizome Formation,165-185,Ca(NO₃)₂,9.3,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,170-190,Urea (N),7.48,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,175-195,NPK 12:32:16,5.41,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,180-200,NPK 20:10:10,9.37,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,185-205,NPK 19:19:19,10.33,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,190-210,Ca(NO₃)₂,2.15,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,195-215,NPK 12:32:16,5.73,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,200-220,MgSO₄,3.47,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,205-225,NPK 19:19:19,4.91,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,210-230,SSP,6.35,Weekly,30-40 mm,Weekly
+Ginger,Rhizome Formation,215-235,Urea (N),8.28,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,220-240,NPK 12:32:16,1.34,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,225-245,Urea (N),6.66,Quarterly,30-40 mm,Weekly
+Ginger,Rhizome Formation,230-250,ZnSO₄,2.95,Twice/month,30-40 mm,Weekly
+Ginger,Rhizome Formation,235-255,Urea (N),7.16,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,240-260,Urea (N),6.9,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,245-265,NPK 19:19:19,6.98,Monthly,30-40 mm,Weekly
+Ginger,Rhizome Formation,250-270,NPK 12:32:16,5,Weekly,30-40 mm,Weekly
+Ginger,Maturity,5-25,MgSO₄,9.84,Quarterly,20 mm,Weekly
+Ginger,Maturity,10-30,NPK 20:10:10,7.23,Once/week,20 mm,Weekly
+Ginger,Maturity,15-35,MgSO₄,6.34,Twice/month,20 mm,Weekly
+Ginger,Maturity,20-40,SOP (K₂SO₄),1.89,Quarterly,20 mm,Weekly
+Ginger,Maturity,25-45,NPK 19:19:19,7.51,Quarterly,20 mm,Weekly
+Ginger,Maturity,30-50,NPK 12:32:16,6.68,Monthly,20 mm,Weekly
+Ginger,Maturity,35-55,NPK 19:19:19,11.51,Twice/week,20 mm,Weekly
+Ginger,Maturity,40-60,NPK 12:32:16,9.75,Quarterly,20 mm,Weekly
+Ginger,Maturity,45-65,NPK 12:32:16,5.6,Quarterly,20 mm,Weekly
+Ginger,Maturity,50-70,Ca(NO₃)₂,6.93,Quarterly,20 mm,Weekly
+Ginger,Maturity,55-75,SOP (K₂SO₄),7.48,Quarterly,20 mm,Weekly
+Ginger,Maturity,60-80,Urea (N),2.54,Quarterly,20 mm,Weekly
+Ginger,Maturity,65-85,ZnSO₄,4.61,Monthly,20 mm,Weekly
+Ginger,Maturity,70-90,DAP + MOP,3.8,Twice/week,20 mm,Weekly
+Ginger,Maturity,75-95,DAP + MOP,10,Twice/month,20 mm,Weekly
+Ginger,Maturity,80-100,SSP,5.35,Monthly,20 mm,Weekly
+Ginger,Maturity,85-105,NPK 12:32:16,1.73,Weekly,20 mm,Weekly
+Ginger,Maturity,90-110,NPK 19:19:19,1.57,Twice/month,20 mm,Weekly
+Ginger,Maturity,95-115,MgSO₄,3.79,Twice/week,20 mm,Weekly
+Ginger,Maturity,100-120,NPK 19:19:19,2.28,Weekly,20 mm,Weekly
+Ginger,Maturity,105-125,SSP,6.17,Twice/month,20 mm,Weekly
+Ginger,Maturity,110-130,NPK 19:19:19,1.84,Weekly,20 mm,Weekly
+Ginger,Maturity,115-135,MgSO₄,2.4,Monthly,20 mm,Weekly
+Ginger,Maturity,120-140,ZnSO₄,2.1,Once/week,20 mm,Weekly
+Ginger,Maturity,125-145,Ca(NO₃)₂,10.55,Weekly,20 mm,Weekly
+Ginger,Maturity,130-150,NPK 12:32:16,2.19,Twice/week,20 mm,Weekly
+Ginger,Maturity,135-155,Urea (N),1.35,Monthly,20 mm,Weekly
+Ginger,Maturity,140-160,MgSO₄,9.94,Twice/week,20 mm,Weekly
+Ginger,Maturity,145-165,NPK 19:19:19,2.02,Quarterly,20 mm,Weekly
+Ginger,Maturity,150-170,NPK 12:32:16,7,Monthly,20 mm,Weekly
+Ginger,Maturity,155-175,SSP,11.71,Twice/month,20 mm,Weekly
+Ginger,Maturity,160-180,Ca(NO₃)₂,2.95,Once/week,20 mm,Weekly
+Ginger,Maturity,165-185,ZnSO₄,1.1,Twice/month,20 mm,Weekly
+Ginger,Maturity,170-190,SSP,6.75,Quarterly,20 mm,Weekly
+Ginger,Maturity,175-195,DAP + MOP,4.17,Twice/month,20 mm,Weekly
+Ginger,Maturity,180-200,SSP,5.56,Twice/month,20 mm,Weekly
+Ginger,Maturity,185-205,NPK 12:32:16,3.8,Twice/month,20 mm,Weekly
+Ginger,Maturity,190-210,ZnSO₄,8.62,Twice/month,20 mm,Weekly
+Ginger,Maturity,195-215,MgSO₄,2.47,Twice/week,20 mm,Weekly
+Ginger,Maturity,200-220,ZnSO₄,9.83,Twice/week,20 mm,Weekly
+Ginger,Maturity,205-225,Ca(NO₃)₂,5.73,Twice/month,20 mm,Weekly
+Ginger,Maturity,210-230,Ca(NO₃)₂,10.02,Monthly,20 mm,Weekly
+Ginger,Maturity,215-235,ZnSO₄,8.98,Monthly,20 mm,Weekly
+Ginger,Maturity,220-240,ZnSO₄,11.85,Once/week,20 mm,Weekly
+Ginger,Maturity,225-245,SOP (K₂SO₄),5.64,Quarterly,20 mm,Weekly
+Ginger,Maturity,230-250,SSP,6.04,Twice/month,20 mm,Weekly
+Ginger,Maturity,235-255,NPK 19:19:19,7.44,Twice/month,20 mm,Weekly
+Ginger,Maturity,240-260,ZnSO₄,6.07,Twice/month,20 mm,Weekly
+Ginger,Maturity,245-265,DAP + MOP,1.31,Quarterly,20 mm,Weekly
+Ginger,Maturity,250-270,Ca(NO₃)₂,9.81,Quarterly,20 mm,Weekly
