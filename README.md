@@ -1,10 +1,6 @@
 # 🌾 AI Precision Farming Assistant 🚜  
 ### Revolutionizing Agriculture with Artificial Intelligence, Machine Learning & Smart Farming Technologies
 
-<p align="center">
-  <img src="images/image_1.png" width="700">
-</p>
-
 ---
 
 # 📌 Project Overview
